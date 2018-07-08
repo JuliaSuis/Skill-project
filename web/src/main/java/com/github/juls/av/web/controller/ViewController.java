@@ -31,6 +31,11 @@ public class ViewController {
         return "view";
     }
 
+    @GetMapping("/timeline")
+    public String timeline() {
+        return "timeline";
+    }
+
     @GetMapping("/edit")
     public String edit() {
         return "edit";
@@ -44,6 +49,16 @@ public class ViewController {
     @GetMapping("/signin")
     public String signin() {
         return "signin";
+    }
+
+    @GetMapping("/nodepage")
+    public String nodepage() {
+        return "nodepage";
+    }
+
+    @GetMapping("/gallery")
+    public String gallery() {
+        return "gallery";
     }
 
     @GetMapping("/view2")

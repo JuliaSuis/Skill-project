@@ -19,7 +19,6 @@
     <script
             src="https://code.jquery.com/jquery-3.2.1.min.js"
             integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-            src="https://code.jquery.com/jquery-3.2.1.min.js"
             crossorigin="anonymous">
     </script>
 
@@ -43,7 +42,7 @@
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Views</a>
                 <div class="dropdown-menu" aria-labelledby="dropdown01">
-                    <a class="dropdown-item" href="view">Time 2D</a>
+                    <a class="dropdown-item" href="timeline">Time Line</a>
                     <a class="dropdown-item" href="view2">Connection 3D</a>
                     <a class="dropdown-item" href="view.jsp">Mathemtician</a>
                 </div>
@@ -69,10 +68,12 @@
             nodes.forEach(function (elem)
             {
                 /*elem.label = elem.text+" - "+elem.time;*/
-                txt += "<tr><td>"+i+"</td><td>"+elem.text+"</td><td>"+elem.name+"</td><td>"+elem.time+"</td>                        <th scope=\"col\">\n" +
-                    "                            <button type=\"button\" class=\"btn btn-success btn-sm\">Edit</button>\n" +
-                    "                            </td><td><button type=\"button\" class=\"btn btn-danger btn-sm\">Delete</button>\n" +
-                    "                        </th></tr>";
+                txt += "<tr><td>" + i +
+                    "</td><td>" + elem.text +
+                    "</td><td>" + elem.name +
+                    "</td><td>" + elem.time +
+                    "</td><th scope=\"col\"></td>" +
+                    "<td><button type=\"button\" class=\"btn btn-danger btn-sm\">Delete</button></th></tr>";
                 i = i + 1;
             });
             if(txt != ""){
@@ -94,7 +95,7 @@
                         <th scope="col">Author</th>
                         <th scope="col">Name</th>
                         <th scope="col">Time</th>
-                        <th scope="col"></th>
+                        <th scope="col">Link</th>
                         <th scope="col"></th>
                     </tr>
                 </table>

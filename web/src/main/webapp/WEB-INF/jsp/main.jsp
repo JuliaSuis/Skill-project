@@ -48,7 +48,7 @@
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Views</a>
                 <div class="dropdown-menu" aria-labelledby="dropdown01">
-                    <a class="dropdown-item" href="view">Time 2D</a>
+                    <a class="dropdown-item" href="timeline">Time Line</a>
                     <a class="dropdown-item" href="view2">Connection 3D</a>
                     <a class="dropdown-item" href="view.jsp">Mathemtician</a>
                 </div>
@@ -76,9 +76,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <h2>Time 2D graph</h2>
-                <p>The data will be presented from the view of time axis. No connections will be illustrated.</p>
-                <p><a class="btn btn-success" href="view" role="button">View details &raquo;</a></p>
+                <h2>Timeline graph</h2>
+                <p>The data are presented from the view of time axis.</p>
+                <p><a class="btn btn-success" href="timeline" role="button">View details &raquo;</a></p>
             </div>
             <div class="col-md-4">
                 <h2>Connections 3D graph</h2>
@@ -88,7 +88,7 @@
             <div class="col-md-4">
                 <h2>Mathematicians info</h2>
                 <p>Here we can reasd more about each matematician. The short bio + photo. And the list of theorems.</p>
-                <p><a class="btn btn-success" href="#" role="button">View details &raquo;</a></p>
+                <p><a class="btn btn-success" href="gallery" role="button">View details &raquo;</a></p>
             </div>
         </div>
 
