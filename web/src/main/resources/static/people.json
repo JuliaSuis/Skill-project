@@ -1,1081 +1,1093 @@
 {
-    "title": {
-        "media": {
-            "url": "/pic/00_Reale_Objekte.jpg",
-            "caption": "caption"
-        },
-        "text": {
-            "headline": "Mathematical discoveries<br/> 1850 BCE - 1899",
-            "text": "<p>The data are presented from the view of time axis.</p>"
-        }
+  "title": {
+    "media": {
+      "caption": "caption",
+      "url": "\/pic\/00_Reale_Objekte.jpg"
     },
-    "events": [
-
-        {
-            "media": {
-                "url": "/pic/01_Moskauer_papyrus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-flaeche-umfang-kreis-dreieck.html"
-            },
-            "start_date": {
-                "year": "-1850"
-            },
-            "text": {
-                "headline": "Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256/81)",
-                "text": "Moskauer Papyrus:  Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256/81)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/01_Moskauer_papyrus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1850"
-            },
-            "text": {
-                "headline": "Raumgeometrie - Volumen verschiedener Körper",
-                "text": "Moskauer Papyrus:  Raumgeometrie - Volumen verschiedener Körper"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/01_Moskauer_papyrus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1850"
-            },
-            "text": {
-                "headline": "Raumgeometrie - Oberfläche verschiedener Körper",
-                "text": "Moskauer Papyrus:  Raumgeometrie - Oberfläche verschiedener Körper"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/04_Tontafeln_der_Babylonier.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1700"
-            },
-            "text": {
-                "headline": "Allgemeine Regeln zur Flächenberechnung",
-                "text": "Tontafeln der Babylonier:  Allgemeine Regeln zur Flächenberechnung"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/04_Tontafeln_der_Babylonier.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1700"
-            },
-            "text": {
-                "headline": "Satz des Pythagoras",
-                "text": "Tontafeln der Babylonier:  Satz des Pythagoras"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/04_Tontafeln_der_Babylonier.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1700"
-            },
-            "text": {
-                "headline": "Kreisumfang und Kreisfläche (Pi = 3)",
-                "text": "Tontafeln der Babylonier:  Kreisumfang und Kreisfläche (Pi = 3)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/04_Tontafeln_der_Babylonier.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1700"
-            },
-            "text": {
-                "headline": "Allgemeine Regeln zur Volumenberechnung",
-                "text": "Tontafeln der Babylonier:  Allgemeine Regeln zur Volumenberechnung"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/08_Papyrus_Rhind.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1550"
-            },
-            "text": {
-                "headline": "Flächeninhalt gleichschenkliges Dreieck",
-                "text": "Ahmes (Papyrus Rhind):  Flächeninhalt gleichschenkliges Dreieck (A=1/2 * g * h)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/08_Papyrus_Rhind.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1550"
-            },
-            "text": {
-                "headline": "Kreisumfang und Kreisfläche",
-                "text": "Ahmes (Papyrus Rhind):  Kreisumfang und Kreisfläche (Pi = 256/81)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/08_Papyrus_Rhind.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1550"
-            },
-            "text": {
-                "headline": "Volumen Zylinder",
-                "text": "Ahmes (Papyrus Rhind):  Volumen Zylinder (Pi = 256/81)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/08_Papyrus_Rhind.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-1550"
-            },
-            "text": {
-                "headline": "Steigung Pyramide = Gegenkathete/Ankathete",
-                "text": "Ahmes (Papyrus Rhind):  Trigonometrie - Steigung Pyramide = Gegenkathete/Ankathete"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/12_Thales_von_Milet.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-580"
-            },
-            "text": {
-                "headline": "Satz des Thales",
-                "text": "Thales von Milet: Satz des Thales"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/12_Thales_von_Milet.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-580"
-            },
-            "text": {
-                "headline": "Strahlensatz",
-                "text": "Thales von Milet:  Strahlensatz "
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/14_Pythagoras_von_Samos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-520"
-            },
-            "text": {
-                "headline": "Beweis des Satz des Pythagoras",
-                "text": "Pythagoras von Samos: Beweis des Satz des Pythagoras"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/14_Pythagoras_von_Samos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-520"
-            },
-            "text": {
-                "headline": "Dreieck Kongruenzsätze",
-                "text": "Pythagoras von Samos: Dreieck Kongruenzsätze"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/14_Pythagoras_von_Samos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-520"
-            },
-            "text": {
-                "headline": "Dreieck Innenwinkelsumme",
-                "text": "Pythagoras von Samos: Dreieck Innenwinkelsumme"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/14_Pythagoras_von_Samos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-520"
-            },
-            "text": {
-                "headline": "Dreieck Inn- und Umkreis",
-                "text": "Pythagoras von Samos: Dreieck Inn- und Umkreis"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/18_Eudoxos_von_Knidos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-360"
-            },
-            "text": {
-                "headline": "Allgemeine Proportionenlehre (irrationale Zahlen, Verhältnisse, Verhältnisgleichungen)",
-                "text": "Eudoxox von Knidos:  allgemeine Proportionenlehre (irrationale Zahlen, Verhältnisse, Verhältnisgleichungen)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/18_Eudoxos_von_Knidos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-360"
-            },
-            "text": {
-                "headline": "Volumen Pyramide",
-                "text": "Eudoxox von Knidos:  Volumen Pyramide = 1/3 Volumen Prisma"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/18_Eudoxos_von_Knidos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-360"
-            },
-            "text": {
-                "headline": "Kegelvolumen",
-                "text": "Eudoxox von Knidos:  Kegelvolumen = 1/3 Zylindervolumen"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/18_Eudoxos_von_Knidos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-360"
-            },
-            "text": {
-                "headline": "Exhaustionsmethode",
-                "text": "Eudoxox von Knidos:  Exhaustionsmethode"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/22_Euklid_von_Alexandria.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-320"
-            },
-            "text": {
-                "headline": "Axiomatisierung der Geometrie",
-                "text": "Euklid von Alexandria: (Elemente) Axiomatisierung der Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/22_Euklid_von_Alexandria.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-320"
-            },
-            "text": {
-                "headline": "Höhensatz, Kathetensatz, Kosinussatz",
-                "text": "Euklid von Alexandria: (Elemente) Höhensatz, Kathetensatz, Kosinussatz"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/24_Archimedes_von_Syrakus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-225"
-            },
-            "text": {
-                "headline": "Beliebig genau Näherung für Pi",
-                "text": "Archimedes von Syrakus:  beliebig genau Näherung für Pi (mit 96-Eck: 3 + 10/71 < Pi)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/24_Archimedes_von_Syrakus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-225"
-            },
-            "text": {
-                "headline": "Flächen- und Volumenberechnungen",
-                "text": "Archimedes von Syrakus:  Flächen- und Volumenberechnungen (Form von Prinzip von Cavalieri)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/26_Apollonios_von_Perge.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-210"
-            },
-            "text": {
-                "headline": "Definition Ellipse, Kreis, Parabel durch Kegelschnitte",
-                "text": "Apollonius von Perge  -  Definition Ellipse, Kreis, Parabel durch Kegelschnitte'"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/26_Apollonios_von_Perge.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "-210"
-            },
-            "text": {
-                "headline": "Apollonisches Problem",
-                "text": "Apollonius von Perge  -  Apollonisches Problem"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/28_Heron_von_Alexandria.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "50"
-            },
-            "text": {
-                "headline": "Heronverfahren",
-                "text": "Heron von Alexandria  -  Heronverfahren"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/28_Heron_von_Alexandria.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "50"
-            },
-            "text": {
-                "headline": "Satz von Heron",
-                "text": "Heron von Alexandria - Satz von Heron"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/28_Heron_von_Alexandria.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "50"
-            },
-            "text": {
-                "headline": "Formel für Oberfläche von Pyramide, Zylinder, Kugel",
-                "text": "Heron von Alexandria: (Metrica) Formel für Oberfläche von Pyramide, Zylinder, Kugel"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/28_Heron_von_Alexandria.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "50"
-            },
-            "text": {
-                "headline": "Formel für Volumen von Pyramide, Zylinder, Kugel, Prisma",
-                "text": "Heron von Alexandria: (Metrica) Formel für Volumen von Pyramide, Zylinder, Kugel, Prisma"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/32_Menelaos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "90"
-            },
-            "text": {
-                "headline": "Sphärische Geometrie",
-                "text": "Menelaos: (Sphaerica) Sphärische Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/32_Menelaos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "90"
-            },
-            "text": {
-                "headline": "Sehnenfunktion",
-                "text": "Menelaos: Sehnenfunktion (Vorläufer des Sinus)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/32_Menelaos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "90"
-            },
-            "text": {
-                "headline": "Satz von Menelaos",
-                "text": "Menelaos:  Satz von Menelaos"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/35_Claudius_Ptolemaeus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "140"
-            },
-            "text": {
-                "headline": "Triangulation und Sehnentafeln",
-                "text": "Claudius Ptolemäus: (Almagest) Triangulation und Sehnentafeln (Vorläufer der Trigonometrie)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/35_Claudius_Ptolemaeus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "140"
-            },
-            "text": {
-                "headline": "Satz des Ptolemäus über Sehnenvierecke",
-                "text": "Claudius Ptolemäus: Satz des Ptolemäus über Sehnenvierecke"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/37_Pappos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "350"
-            },
-            "text": {
-                "headline": "Formeln für Oberfläche und Volumen von Rotationskörper",
-                "text": "Pappos: (Mathematische Sammlungen) Formeln für Oberfläche und Volumen von Rotationskörper"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/37_Pappos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "350"
-            },
-            "text": {
-                "headline": "Satz von Pappos",
-                "text": "Pappos: (Mathematische Sammlungen) Satz von Pappos"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/37_Pappos.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "350"
-            },
-            "text": {
-                "headline": "Flächenformel von Pappos",
-                "text": "Pappos: Flächenformel von Pappos (Pythagoras für beliebige Dreiecke mit Parallelogrammen statt Quadraten)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/40_Aryabhata.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "520"
-            },
-            "text": {
-                "headline": "Pi auf 3,1416 bestimmt",
-                "text": "Aryabhata:  Pi auf 3,1416 bestimmt"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/40_Aryabhata.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "520"
-            },
-            "text": {
-                "headline": "Grundlagen für Sinusfunktion",
-                "text": "Aryabhata: Grundlagen für Sinusfunktion"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/43_Brahmagupta.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "628"
-            },
-            "text": {
-                "headline": "Satz von Brahmagupta über Sehnenvierecke",
-                "text": "Brahmagupta: (Brahmasphutasiddhanta) Satz von Brahmagupta über Sehnenvierecke"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/43_Brahmagupta.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "628"
-            },
-            "text": {
-                "headline": "Formel von Brahmagupta zur Berechnung der Fläche von Sehnenvierecken",
-                "text": "Brahmagupta: (Brahmasphutasiddhanta) Formel von Brahmagupta zur Berechnung der Fläche von Sehnenvierecken"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/45_Banu_Musa.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "850"
-            },
-            "text": {
-                "headline": "Kreisfläche als Zahl, nicht wie bisher als Verhältnis",
-                "text": "Banū Mūsā Brüder: (Kitab marifat masakhat al-ashkal) Kreisfläche als Zahl, nicht wie bisher als Verhältnis"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/45_Banu_Musa.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "850"
-            },
-            "text": {
-                "headline": "Kugel- und Zylindervolumen als Zahl, nicht wie bisher als Verhältnis",
-                "text": "Banū Mūsā Brüder: (Kitab marifat masakhat al-ashkal) Kugel- und Zylindervolumen als Zahl, nicht wie bisher als Verhältnis"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/47_al_Battani.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "900"
-            },
-            "text": {
-                "headline": "Einführung Sinus",
-                "text": "al Battani: Einführung Sinus "
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/47_al_Battani.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "900"
-            },
-            "text": {
-                "headline": "Identität tan = sin/cos ohne Bezeichnungen cos,tan",
-                "text": "al Battani: Identität tan = sin/cos ohne Bezeichnungen cos,tan"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/47_al_Battani.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "900"
-            },
-            "text": {
-                "headline": "Sinussatz + Beweis",
-                "text": "al Battani: Sinussatz + Beweis"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/50_Abu_l_Wafa.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "980"
-            },
-            "text": {
-                "headline": "Erstmaliger Gebrauch des Tangens",
-                "text": "Abu l Wafa:  Erstmaliger Gebrauch des Tangens"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/50_Abu_l_Wafa.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "980"
-            },
-            "text": {
-                "headline": "Einführung Sekans und Kosekans",
-                "text": "Abu l Wafa:  Einführung Sekans und Kosekans"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/50_Abu_l_Wafa.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "980"
-            },
-            "text": {
-                "headline": "Vorschlag, trigonometrische Funktionen über Einheitskreis zu definieren",
-                "text": "Abu l Wafa:  Vorschlag, trigonometrische Funktionen über Einheitskreis zu definieren"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/50_Abu_l_Wafa.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "980"
-            },
-            "text": {
-                "headline": "Sinussatz + Beweis für allgemeine sphärische Dreiecke",
-                "text": "Abu l Wafa:  Sinussatz + Beweis für allgemeine sphärische Dreiecke"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/54_Fibonacci.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1202"
-            },
-            "text": {
-                "headline": "Zusammenfassung und Übersetzung der Trigonometrie der Araber",
-                "text": "Leonardo von Pisa / Fibonacci (Liber abbaci): Zusammenfassung und Übersetzung der Trigonometrie der Araber"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/55_Regiomontanus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1464"
-            },
-            "text": {
-                "headline": "Formalisierung der ebenen und sphärischen Trigonometrie",
-                "text": "Regiomontanus (Johannes Müller): Formalisierung der ebenen und sphärischen Trigonometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/56_Duerer.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1525"
-            },
-            "text": {
-                "headline": "Konstruktion von Figuren mit Zirkel und Lineal; Diskussion von Proportion und Perspektive",
-                "text": "Albrecht Dürer: (Underweysung der Messung, mit dem Zirckel und Richtscheyt, in Linien, Ebenen unnd gantzen corporen) Konstruktion von Figuren mit Zirkel und Lineal; Diskussion von Proportion und Perspektive"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/57_Rheticus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1551"
-            },
-            "text": {
-                "headline": "Definition trigonometrischer Funktionen über rechtwinkliges Dreieck",
-                "text": "Georg Joachim Rheticus: (Canon Doctrinae)  Definition trigonometrischer Funktionen über rechtwinkliges Dreieck"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/57_Rheticus.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1551"
-            },
-            "text": {
-                "headline": "Umfangreiche Tabellen für trigonometrische Funktionen",
-                "text": "Georg Joachim Rheticus: (Canon Doctrinae)  Umfangreiche Tabellen für trigonometrische Funktionen"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/60_Descartes.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1637"
-            },
-            "text": {
-                "headline": "Begründung der analytischen Geometrie",
-                "text": "René Descartes: (La Géométrie) Begründung der analytischen Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/61_Desargues.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1639"
-            },
-            "text": {
-                "headline": "Satz von Desargues",
-                "text": "Gérard Desargues: (Brouillon Projet) Satz von Desargues"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/61_Desargues.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1639"
-            },
-            "text": {
-                "headline": "Grundlagen der projektiven Geometrie",
-                "text": "Gérard Desargues: (Brouillon Projet) Grundlagen der projektiven Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/63_Pascal.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1640"
-            },
-            "text": {
-                "headline": "Satz von Pascal",
-                "text": "Blaise Pascal: Satz von Pascal"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/64_Cavalieri.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1647"
-            },
-            "text": {
-                "headline": "Prinzip von Cavalieri",
-                "text": "Bonaventura Cavalieri: Prinzip von Cavalieri"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/65_Fermat.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1650"
-            },
-            "text": {
-                "headline": "Konkrete algebraische Gleichungen und feste Symbolik für analytische Geometrie",
-                "text": "Pierre de Fermat: Konkrete algebraische Gleichungen und feste Symbolik für analytische Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/66_Ceva.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1678"
-            },
-            "text": {
-                "headline": "Satz von Ceva",
-                "text": "Giovanni Ceva: (De lineis rectis se invicem secantibus statica constructio) Satz von Ceva"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/67_Newton.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1704"
-            },
-            "text": {
-                "headline": "Exponential-, Sinus- und Kosinusreihe",
-                "text": "Isaac Newton: Exponential-, Sinus- und Kosinusreihe"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/68_Euler.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1758"
-            },
-            "text": {
-                "headline": "Begründer vieler Symbole",
-                "text": "Leonhard Euler:  Begründer vieler Symbole: Pi für Kreiszahl, Standardbezeichnung Dreieck, i für sqrt(-1)"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/68_Euler.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1758"
-            },
-            "text": {
-                "headline": "Eulerscher Polyedersatz",
-                "text": "Leonhard Euler:  Eulerscher Polyedersatz"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/70_Legendre.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1794"
-            },
-            "text": {
-                "headline": "Vereinfachung und Modernisierung der Elemente von Euklid",
-                "text": "Adrien-Marie Legendre: (Éléments de géométrie) Vereinfachung und Modernisierung der Elemente von Euklid"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/71_Gauss.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1811"
-            },
-            "text": {
-                "headline": "Erste Ideen zur nichteuklidischen Geometrie",
-                "text": "Carl Friedrich Gauß: erste Ideen zur nichteuklidischen Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/71_Gauss.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1811"
-            },
-            "text": {
-                "headline": "Gaußsche Zahlenebene",
-                "text": "Carl Friedrich Gauß: Gaußsche Zahlenebene"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/71_Gauss.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1811"
-            },
-            "text": {
-                "headline": "Kontruktionskriterium für regelmäßiges n-Eck mit Zirkel und Lineal",
-                "text": "Carl Friedrich Gauß: Kontruktionskriterium für regelmäßiges n-Eck mit Zirkel und Lineal"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/74_Feuerbach.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1822"
-            },
-            "text": {
-                "headline": "Feuerbachkrei",
-                "text": "Karl Wilhelm Feuerbach:  Feuerbachkreis"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/75_Poncelet.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1823"
-            },
-            "text": {
-                "headline": "Fundamentale Ideen der projektiven Geometrie",
-                "text": "Jean-Victor Poncelet: fundamentale Ideen der projektiven Geometrie: Invarianz des Doppelverhältnisses, projektive Verwandtschaften, Dualitätsprinzip, Poncelets Kontinuitätsprinzip"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/76_Lobatschewski.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1826"
-            },
-            "text": {
-                "headline": "Nichteuklidische hyperbolische Geometrie",
-                "text": "Nikolai Iwanowitsch Lobatschewski: Nichteuklidische hyperbolische Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/77_Moebius.png",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1827"
-            },
-            "text": {
-                "headline": "Homogene Koordinaten und Dualitätsprinzip für analytische Geometrie",
-                "text": "August Ferdinand Möbius: homogene Koordinaten und Dualitätsprinzip für analytische Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/78_Bolyai.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1831"
-            },
-            "text": {
-                "headline": "Arbeit an nichteuklidischen Geometrien",
-                "text": "János Bolyai: Arbeit an nichteuklidischen Geometrien"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/78_Bolyai.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1831"
-            },
-            "text": {
-                "headline": "Begriff der absoluten Geometrie",
-                "text": "János Bolyai:  Begriff der absoluten Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/80_Monge.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1847"
-            },
-            "text": {
-                "headline": "Begründung der darstellenden Geometrie",
-                "text": "Gaspard Monge: (Géométrie descriptive) Begründung der darstellenden Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/81_Riemann.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1857"
-            },
-            "text": {
-                "headline": "Riemann Integral",
-                "text": "Bernhard Riemann: Riemann Integral"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/82_Klein.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1871"
-            },
-            "text": {
-                "headline": "Klassifizierung verschiedener Geometrien",
-                "text": "Felix Klein: (Erlanger Programm) Klassifizierung verschiedener Geometrien"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/83_Poincare.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1890"
-            },
-            "text": {
-                "headline": "Poincarésches Kreisscheibenmodell und Poincarésches Halbebenenmodell für hyperbolische Geometrie",
-                "text": "Henri Poincaré: Poincarésches Kreisscheibenmodell und Poincarésches Halbebenenmodell für hyperbolische Geometrie"
-            }
-        },
-        {
-            "media": {
-                "url": "/pic/84_Hilbert.jpg",
-                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
-            },
-            "start_date": {
-                "year": "1899"
-            },
-            "text": {
-                "headline": "Formaler axiomatischer Aufbau der Geometrie",
-                "text": "David Hilbert: (Grundlagen der Geometrie) Formaler axiomatischer Aufbau der Geometrie"
-            }
-        }
-    ]
+    "text": {
+      "text": "<p>The data are presented from the view of time axis.<\/p>",
+      "headline": "Mathematical discoveries<br\/> 1850 BCE - 1899"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/01_Moskauer_Papyrus.jpg"
+      },
+      "text": {
+        "text": "Der Moskauer Papyrus ist ein altägyptischer Papyrus mit mathematischem Inhalt, der eine Sammlung von insgesamt 25 Rechenaufgaben enthält. Er ist 5,44 m lang, nur 8 cm breit und wird etwa auf das Jahr 1850 v. Chr. Datiert. Er enthält unter anderem Aufgaben zur Berechnung der Fläche des Dreiecks, des Vierecks und des Kreises, wobei hier die Näherung Pi = 256\/81 verwendet wird.",
+        "headline": "Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256\/81)"
+      },
+      "start_date": {
+        "year": -1850
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/01_Moskauer_Papyrus.jpg"
+      },
+      "text": {
+        "text": "Der Moskauer Papyrus ist ein altägyptischer Papyrus mit mathematischem Inhalt, der eine Sammlung von insgesamt 25 Rechenaufgaben enthält. Er ist 5,44 m lang, nur 8 cm breit und wird etwa auf das Jahr 1850 v. Chr. Datiert. In Aufgabe 14 wird exakt das Volumen eines quadratischen Pyramidenstumpfes berechnet.",
+        "headline": "Raumgeometrie - Volumen verschiedener Körper"
+      },
+      "start_date": {
+        "year": -1850
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/01_Moskauer_Papyrus.jpg"
+      },
+      "text": {
+        "text": "Der Moskauer Papyrus ist ein altägyptischer Papyrus mit mathematischem Inhalt, der eine Sammlung von insgesamt 25 Rechenaufgaben enthält. Er ist 5,44 m lang, nur 8 cm breit und wird etwa auf das Jahr 1850 v. Chr. Datiert. In Aufgabe 10 wird beispielsweise die Oberfläche der Halbkugel korrekt berechnet (mit Pi = 256\/81).",
+        "headline": "Raumgeometrie - Oberfläche verschiedener Körper"
+      },
+      "start_date": {
+        "year": -1850
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/04_Tontafeln_der_Babylonier.jpg"
+      },
+      "text": {
+        "text": "Das Wissen über die babylonische Mathematik stützt sich auf ca 400 Tontafeln, die seit 1850 ausgegraben wurden. Einige dieser Tafeln geben Formeln für die Flächenberechnung verschiedener ebener Figuren an.",
+        "headline": "Allgemeine Regeln zur Flächenberechnung"
+      },
+      "start_date": {
+        "year": -1700
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/04_Tontafeln_der_Babylonier.jpg"
+      },
+      "text": {
+        "text": "Das Wissen über die babylonische Mathematik stützt sich auf ca 400 Tontafeln, die seit 1850 ausgegraben wurden. Einige dieser Tafeln geben die Formel des Satz des Pythagoras an.",
+        "headline": "Satz des Pythagoras"
+      },
+      "start_date": {
+        "year": -1700
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/04_Tontafeln_der_Babylonier.jpg"
+      },
+      "text": {
+        "text": "Das Wissen über die babylonische Mathematik stützt sich auf ca 400 Tontafeln, die seit 1850 ausgegraben wurden. Tafeln, die Formeln zur Kreisfläche und zum Kreisumfang enthalten, benutzen die Näherung Pi=3.",
+        "headline": "Kreisumfang und Kreisfläche (Pi = 3)"
+      },
+      "start_date": {
+        "year": -99999
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/04_Tontafeln_der_Babylonier.jpg"
+      },
+      "text": {
+        "text": "Das Wissen über die babylonische Mathematik stützt sich auf ca 400 Tontafeln, die seit 1850 ausgegraben wurden. Einige dieser Tafeln geben Formeln für die Volumenberechnung verschiedener Figuren an.",
+        "headline": "Allgemeine Regeln zur Volumenberechnung"
+      },
+      "start_date": {
+        "year": -1700
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/08_Papyrus_Rhind.jpg"
+      },
+      "text": {
+        "text": "Der Papyrus Rhind ist eine altägyptische Abhandlung zu verschiedenen mathematischen Themen, die man heute als Arithmetik, Algebra, Geometrie, Trigonometrie und Bruchrechnung bezeichnen würde. Er gilt neben dem etwas älteren, aber weniger umfangreichen Moskauer Papyrus als eine der wichtigsten Quellen für das heutige Wissen über die Mathematik im Alten Ägypten und wird auf etwa 1550 v. Chr. datiert. Er enthält eine Formel zur Berechnung des Flächeninhaltes eines gleichschenkligen Dreiecks, nämlich A = 1\/2 * g * h. ",
+        "headline": "Flächeninhalt gleichschenkliges Dreieck (A=1\/2 * g * h)"
+      },
+      "start_date": {
+        "year": -1550
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/08_Papyrus_Rhind.jpg"
+      },
+      "text": {
+        "text": "Der Papyrus Rhind ist eine altägyptische Abhandlung zu verschiedenen mathematischen Themen, die man heute als Arithmetik, Algebra, Geometrie, Trigonometrie und Bruchrechnung bezeichnen würde. Er gilt neben dem etwas älteren, aber weniger umfangreichen Moskauer Papyrus als eine der wichtigsten Quellen für das heutige Wissen über die Mathematik im Alten Ägypten und wird auf etwa 1550 v. Chr. datiert. Bei Aufgabe 48 zur Berechnung der Fläche des Kreises leitet Ahmes über ein Quadrat, dem ein Kreis einbeschrieben ist, die Näherung Pi = 256\/81 her.",
+        "headline": "Kreisumfang und Kreisfläche (Pi = 256\/81)"
+      },
+      "start_date": {
+        "year": -1550
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/08_Papyrus_Rhind.jpg"
+      },
+      "text": {
+        "text": "Der Papyrus Rhind ist eine altägyptische Abhandlung zu verschiedenen mathematischen Themen, die man heute als Arithmetik, Algebra, Geometrie, Trigonometrie und Bruchrechnung bezeichnen würde. Er gilt neben dem etwas älteren, aber weniger umfangreichen Moskauer Papyrus als eine der wichtigsten Quellen für das heutige Wissen über die Mathematik im Alten Ägypten und wird auf etwa 1550 v. Chr. datiert. Bei Aufagbe 41 geht es um die Berechnung des Volumens eines zylindrischen Kornspeichers. Dabei wird die Näherung Pi = 256\/81 verwendet.",
+        "headline": "Volumen Zylinder (Pi = 256\/81)"
+      },
+      "start_date": {
+        "year": -1550
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/08_Papyrus_Rhind.jpg"
+      },
+      "text": {
+        "text": "Der Papyrus Rhind ist eine altägyptische Abhandlung zu verschiedenen mathematischen Themen, die man heute als Arithmetik, Algebra, Geometrie, Trigonometrie und Bruchrechnung bezeichnen würde. Er gilt neben dem etwas älteren, aber weniger umfangreichen Moskauer Papyrus als eine der wichtigsten Quellen für das heutige Wissen über die Mathematik im Alten Ägypten und wird auf etwa 1550 v. Chr. datiert. Die Steigung einer Pyramide wird angegeben als das Verhältnis von Gegenkathete zu Ankathete.",
+        "headline": "Trigonometrie: Steigung Pyramide = Gegenkathete\/Ankathete"
+      },
+      "start_date": {
+        "year": -1550
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/12_Thales_von_Milet.jpg"
+      },
+      "text": {
+        "text": "Thales von Milet wurde wahrscheinlich um 624 v. Chr geboren und starb zwischen 548 und 544 v. Chr. Er war ein vorsokratischer Naturphilosoph, Geometer und Astronom des archaischen Griechenlands. Der Satz, der nach Thales benannt wurde, kann wie folgt formuliert werden: Konstruiert man ein Dreieck aus den beiden Endpunkten des Durchmessers eines Halbkreises und einem weiteren Punkt dieses Halbkreises, so erhält man immer ein rechtwinkliges Dreieck. Dieser Halbkreis wird auch als Thaleskreis bezeichnet.",
+        "headline": "Satz des Thales"
+      },
+      "start_date": {
+        "year": -580
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/12_Thales_von_Milet.jpg"
+      },
+      "text": {
+        "text": "Thales von Milet wurde wahrscheinlich um 624 v. Chr geboren und starb zwischen 548 und 544 v. Chr. Er war ein vorsokratischer Naturphilosoph, Geometer und Astronom des archaischen Griechenlands. Überlieferungen zufolge benutzte er als erster den Strahlensatz, um die Höhe einer Pyramide zu bestimmen, indem er die Länge des Schattens der Pyramide zu dem Zeitpunkt maß, zu dem sein eigener Schatten genauso groß wie er selbst war. Der Wahrheitsgehalt dieser Überlieferung wird heute angezweifelt. Der Strahlensatz gehört zu den wichtigsten Aussagen der Elementargeometrie. Er befasst sich mit Streckenverhältnissen und ermöglicht es bei vielen geometrischen Überlegungen, unbekannte Streckenlängen auszurechnen. ",
+        "headline": "Strahlensatz"
+      },
+      "start_date": {
+        "year": -580
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/14_Pythagoras_von_Samos.jpg"
+      },
+      "text": {
+        "text": "Pythagoras von Samos wurde 570 v. Chr auf Samos geboren und starb nach 510 v. Chr. in Metapont. Er war ein antiker griechischer Philosoph und Gründer einer einflussreichen religiös-philosophischen Bewegung, den Pythagoreern. Von Pythagoras ist der erste Beweis des nach ihm benannten Satzes überliefert, obwohl die Aussage des Satzes des Pythagoras schon deutlich länger bekannt war.",
+        "headline": "Beweis des Satz des Pythagoras"
+      },
+      "start_date": {
+        "year": -520
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/14_Pythagoras_von_Samos.jpg"
+      },
+      "text": {
+        "text": "Pythagoras von Samos wurde 570 v. Chr auf Samos geboren und starb nach 510 v. Chr. in Metapont. Er war ein antiker griechischer Philosoph und Gründer einer einflussreichen religiös-philosophischen Bewegung, den Pythagoreern. Die Kongruenzsätze für Dreiecke waren schon Pythagoras bekannt. Noch heute sind die Kongruenzsätze SSS, SWS, WSW, SsW ein wichtiger Inhalt des Lehrplans an allen Schularten.",
+        "headline": "Dreieck Kongruenzsätze"
+      },
+      "start_date": {
+        "year": -520
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/14_Pythagoras_von_Samos.jpg"
+      },
+      "text": {
+        "text": "Pythagoras von Samos wurde 570 v. Chr auf Samos geboren und starb nach 510 v. Chr. in Metapont. Er war ein antiker griechischer Philosoph und Gründer einer einflussreichen religiös-philosophischen Bewegung, den Pythagoreern. Von Pythagoras ist der erste Beweis überliefert, dass die Innenwinkelsumme im Dreieck gleich 2R ist.",
+        "headline": "Dreieck Innenwinkelsumme"
+      },
+      "start_date": {
+        "year": -520
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/14_Pythagoras_von_Samos.jpg"
+      },
+      "text": {
+        "text": "Pythagoras von Samos wurde 570 v. Chr auf Samos geboren und starb nach 510 v. Chr. in Metapont. Er war ein antiker griechischer Philosoph und Gründer einer einflussreichen religiös-philosophischen Bewegung, den Pythagoreern. Die Konstruktion des Inn- und Umkreises eines Dreiecks stammt von Pythagoras.",
+        "headline": "Dreieck Inn- und Umkreis"
+      },
+      "start_date": {
+        "year": -520
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/18_Eudoxos_von_Knidos.jpg"
+      },
+      "text": {
+        "text": "Eudoxos von Knidos wurde wohl zwischen 397 und 390 v. Chr. in Knidos geboren und starb zwischen 345 und 338 v. Chr. ebendort. Er war ein griechischer Mathematiker, Astronom, Geograph, Arzt, Philosoph und Gesetzgeber der Antike. Eudoxos begründete die allgemeine Proportionenlehre. Dabei konnte er erstmals die irrationalen Größen einbeziehen, da seine Proportionenlehre auch auf inkommensurable Größen anwendbar ist. Seine Definitionen von Verhältnis (lógos) und Proportion (analogía) sind im fünften Buch von Euklids Elementen überliefert. ",
+        "headline": "allgemeine Proportionenlehre (irrationale Zahlen, Verhältnisse, Verhältnisgleichungen)"
+      },
+      "start_date": {
+        "year": -360
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/18_Eudoxos_von_Knidos.jpg"
+      },
+      "text": {
+        "text": "Eudoxos von Knidos wurde wohl zwischen 397 und 390 v. Chr. in Knidos geboren und starb zwischen 345 und 338 v. Chr. ebendort. Er war ein griechischer Mathematiker, Astronom, Geograph, Arzt, Philosoph und Gesetzgeber der Antike. Er untersuchte die Volumenverhältnisse von Körpern und zeigte, dass das Volumen einer Pyramide einem Drittel des entsprechenden Prismas entspricht.",
+        "headline": "Volumen Pyramide = 1\/3 Volumen Prisma"
+      },
+      "start_date": {
+        "year": -360
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/18_Eudoxos_von_Knidos.jpg"
+      },
+      "text": {
+        "text": "Eudoxos von Knidos wurde wohl zwischen 397 und 390 v. Chr. in Knidos geboren und starb zwischen 345 und 338 v. Chr. ebendort. Er war ein griechischer Mathematiker, Astronom, Geograph, Arzt, Philosoph und Gesetzgeber der Antike. Er untersuchte die Volumenverhältnisse von Körpern und zeigte, dass das Volumen eines Kegels einem Drittel des entsprechenden Zylinders entspricht.",
+        "headline": "Kegelvolumen = 1\/3 Zylindervolumen"
+      },
+      "start_date": {
+        "year": -360
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/18_Eudoxos_von_Knidos.jpg"
+      },
+      "text": {
+        "text": "Eudoxos von Knidos wurde wohl zwischen 397 und 390 v. Chr. in Knidos geboren und starb zwischen 345 und 338 v. Chr. ebendort. Er war ein griechischer Mathematiker, Astronom, Geograph, Arzt, Philosoph und Gesetzgeber der Antike. Er untersuchte die Volumenverhältnisse von Körpern. Dazu verwendete er ein infinitesimales Berechnungsverfahren, die Exhaustionsmethode. Bei der Exhaustionsmethode geht es darum, eine gegebene Figur von Innen möglichst komplett auszuschöpfen, also z.B. die Kreisfläche durch regelmäßige n-Ecke anzunähern, wobei n immer größer wird, sodass der tatsächliche Unterschied zwischen Kreisfläche und Fläche des n-Ecks beliebig klein wird.",
+        "headline": "Exhaustionsmethode"
+      },
+      "start_date": {
+        "year": -360
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/22_Euklid_von_Alexandria.jpg"
+      },
+      "text": {
+        "text": "Euklid von Alexandria war ein griechischer Mathematiker, der wahrscheinlich im 3. Jahrhundert v. Chr. in Alexandria gelebt hat. In seinem berühmtesten Werk Elemente trug er das Wissen der griechischen Mathematik seiner Zeit zusammen. Er zeigte darin die Konstruktion geometrischer Objekte, natürlicher Zahlen sowie bestimmter Größen und untersuchte deren Eigenschaften. Dazu benutzte er Definitionen, Postulate und Axiome. Viele Sätze der Elemente stammen offenbar nicht von Euklid selbst. Seine Hauptleistung besteht vielmehr in der Sammlung und einheitlichen Darstellung des mathematischen Wissens sowie der strengen Beweisführung, die zum Vorbild für die spätere Mathematik wurde. Das bekannte fünfte Postulat der ebenen euklidischen Geometrie, das Parallelenaxiom, besagt: Schneiden zwei Geraden eine Strecke so, dass die auf einer Seite von der Strecke und den zwei Geraden eingeschlossenen zwei Winkel kleiner als 180° sind, dann schneiden sich die beiden Geraden auf dieser Seite und begrenzen zusammen mit der Strecke ein Dreieck. ",
+        "headline": "Axiomatisierung der Geometrie"
+      },
+      "start_date": {
+        "year": -320
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/22_Euklid_von_Alexandria.jpg"
+      },
+      "text": {
+        "text": "Euklid von Alexandria war ein griechischer Mathematiker, der wahrscheinlich im 3. Jahrhundert v. Chr. in Alexandria gelebt hat. Der Höhensatz und der Kathetensatz werden zur Satzgruppe des Pythagoras für das rechtwinklige Dreieck gezählt. Der Kosinussatz ist die Verallgemeinerung des Satzes des Pythagoras auf nicht-rechtwinklige Dreiecke. Höhensatz, Kathetensatz und Kosinussatz werden in den Elementen von Euklid behandelt.",
+        "headline": "Höhensatz, Kathetensatz, Kosinussatz"
+      },
+      "start_date": {
+        "year": -320
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/24_Archimedes_von_Syrakus.jpg"
+      },
+      "text": {
+        "text": "Archimedes von Syrakus wurde um 287 v. Chr. vermutlich in Syrakus geboren und starb 212 v. Chr. Ebenda. Er war ein griechischer Mathematiker, Physiker und Ingenieur. Archimedes bewies, dass sich der Umfang eines Kreises zu seinem Durchmesser genauso verhält wie die Fläche des Kreises zum Quadrat des Radius. Er nannte dieses Verhältnis noch nicht Pi, gab aber ein Verfahren mit einem n-Eck an, wie man sich dem Verhältnis bis zu einer beliebig hohen Genauigkeit nähern kann, vermutlich das älteste numerische Verfahren der Geschichte. Mit einem 96-Eck erhielt er die Näherung 3+10\/71 (=3,140845...) < Pi.",
+        "headline": "beliebig genau Näherung für Pi (mit 96-Eck: 3 + 10\/71 < Pi)"
+      },
+      "start_date": {
+        "year": -225
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/24_Archimedes_von_Syrakus.jpg"
+      },
+      "text": {
+        "text": "Archimedes von Syrakus wurde um 287 v. Chr. vermutlich in Syrakus geboren und starb 212 v. Chr. Ebenda. Er war ein griechischer Mathematiker, Physiker und Ingenieur. Mit seinen Überlegungen zur Flächen- und Volumenberechnung nahm Archimedes Ideen der Integralrechnung viel später folgender Denker vorweg. Er ging dabei über die Eudoxos von Knidos zugeschriebene Exhaustionsmethode hinaus. Beispielsweise wandte er bereits eine Form des Prinzips von Cavalieri an. ",
+        "headline": "Flächen- und Volumenberechnungen (Form von Prinzip von Cavalieri)"
+      },
+      "start_date": {
+        "year": -225
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/26_Appolonios_von_Perge.jpg"
+      },
+      "text": {
+        "text": "Appolonios von Perge wurde ca. 265 v. Chr. in Perge geboren und starb 190 v. Chr. in Alexandria. Er war ein antiker griechischer Mathematiker, bekannt für sein Buch über Kegelschnitte. In seinem bedeutendsten Werk Konika widmete er sich u.a. eingehend der Untersuchung von Kegelschnitten. Er wies nach, dass die vier verschiedenen Kegelschnitte (Ellipse, Kreis, Parabel und Hyperbel), deren Namen und Definitionen er einführte, vom selben allgemeinen Kegeltypus stammen.",
+        "headline": "Definition Ellipse, Kreis, Parabel durch Kegelschnitte"
+      },
+      "start_date": {
+        "year": -210
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/26_Appolonios_von_Perge.jpg"
+      },
+      "text": {
+        "text": "Appolonios von Perge wurde ca. 265 v. Chr. in Perge geboren und starb 190 v. Chr. in Alexandria. Er war ein antiker griechischer Mathematiker, bekannt für sein Buch über Kegelschnitte. Nach Appolonios von Perge ist auch das Appolonische Problem benannt. Dabei geht es um die Aufgab, mit Zirkel und Lineal die Kreise zu konstruieren, die drei beliebige vorgegebene Kreise berühren.",
+        "headline": "Apollonisches Problem"
+      },
+      "start_date": {
+        "year": -210
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/28_Heron_von_Alexandria.jpg"
+      },
+      "text": {
+        "text": "Heron von Alexandria war ein griechischer Mathematiker und Ingenieur, der wahrscheinlich im 1. Jahrhundert n. Chr. lebte. Seine genauen Lebensdaten sind nicht bekannt. Er lehrte am Museion von Alexandria, dessen Bibliothek berühmt war. Von Heron stammt das Heron-Verfahren zur approximativen Berechnung von Quadratwurzeln.",
+        "headline": "Heronverfahren"
+      },
+      "start_date": {
+        "year": 50
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/28_Heron_von_Alexandria.jpg"
+      },
+      "text": {
+        "text": "Heron von Alexandria war ein griechischer Mathematiker und Ingenieur, der wahrscheinlich im 1. Jahrhundert n. Chr. lebte. Seine genauen Lebensdaten sind nicht bekannt. Er lehrte am Museion von Alexandria, dessen Bibliothek berühmt war. Nach Heron ist der Satz von Heron benannt, der es ermöglicht, die Fläche eines Dreiecks aus den drei Seitenlängen zu berechnen, ohne die Winkel zu kennen.",
+        "headline": "Satz von Heron"
+      },
+      "start_date": {
+        "year": 50
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/28_Heron_von_Alexandria.jpg"
+      },
+      "text": {
+        "text": "Heron von Alexandria war ein griechischer Mathematiker und Ingenieur, der wahrscheinlich im 1. Jahrhundert n. Chr. lebte. Seine genauen Lebensdaten sind nicht bekannt. Er lehrte am Museion von Alexandria, dessen Bibliothek berühmt war. Sein Werk \"Metrica\" enthält Formeln zur Berechnung der Oberfläche von Pyramide, Zylinder und Kugel.",
+        "headline": "Formel für Oberfläche von Pyramide, Zylinder, Kugel"
+      },
+      "start_date": {
+        "year": 50
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/28_Heron_von_Alexandria.jpg"
+      },
+      "text": {
+        "text": "Heron von Alexandria war ein griechischer Mathematiker und Ingenieur, der wahrscheinlich im 1. Jahrhundert n. Chr. lebte. Seine genauen Lebensdaten sind nicht bekannt. Er lehrte am Museion von Alexandria, dessen Bibliothek berühmt war. Sein Werk \"Metrica\" enthält Formeln zur Berechnung des Volumens von Pyramide, Zylinder, Kugel und Prisma.",
+        "headline": "Formel für Volumen von Pyramide, Zylinder, Kugel, Prisma"
+      },
+      "start_date": {
+        "year": 50
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/32_Menelaos.jpg"
+      },
+      "text": {
+        "text": "Menelaos wurde um 50 in Alexandria geboren und starb um 115 vermutlich in Rom. Er war ein antiker griechischer Mathematiker und Astronom. In seinem Werk Sphaerica beschäftigte er sich mit sphärischer Geometrie (Kugelgeometrie), unter anderem mit den für Astronomen wichtigen sphärischen Dreiecken.",
+        "headline": "Sphärische Geometrie"
+      },
+      "start_date": {
+        "year": 90
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/32_Menelaos.jpg"
+      },
+      "text": {
+        "text": "Menelaos wurde um 50 in Alexandria geboren und starb um 115 vermutlich in Rom. Er war ein antiker griechischer Mathematiker und Astronom. In seinem Werk Sphaerica benutz Menelaos als erster ausdrücklich eben jene Sehnenfunktion, aus der später der Sinus entstand.",
+        "headline": "Sehnenfunktion (Vorläufer des Sinus)"
+      },
+      "start_date": {
+        "year": 90
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/32_Menelaos.jpg"
+      },
+      "text": {
+        "text": "Menelaos wurde um 50 in Alexandria geboren und starb um 115 vermutlich in Rom. Er war ein antiker griechischer Mathematiker und Astronom. Der nach ihm benannte Satz von Menelaos macht eine Aussage über die Teilungsverhältnisse, in denen eine Gerade ein Dreieck schneidet.",
+        "headline": "Satz von Menelaos"
+      },
+      "start_date": {
+        "year": 90
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/35_Claudius_Ptolemaeus.jpg"
+      },
+      "text": {
+        "text": "Claudius Ptolemäus wurde um 100 möglicherweise in Ptolemais Hermeiou, Ägypten geboren und starb nach 160 vermutlich in Alexandria. Er war ein griechischer Mathematiker, Geograf, Astronom, Astrologe, Musiktheoretiker und Philosoph. Er lebte in Alexandria in der römischen Provinz Ägypten. Insbesondere seine drei Werke zur Astronomie, Geografie und Astrologie galten in Europa bis zur frühen Neuzeit als wissenschaftliche Standardwerke und wichtige Datensammlungen. In seinem Werk Almagest, Buch 1, beschäftigt sich Claudius Ptolemäus mit der Sehnenberechnung und der Anwendung der Sehnentafeln bei astronomischen Dreiecksberechnungen.",
+        "headline": "Triangulation und Sehnentafeln (Vorläufer der Trigonometrie)"
+      },
+      "start_date": {
+        "year": 140
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/35_Claudius_Ptolemaeus.jpg"
+      },
+      "text": {
+        "text": "Claudius Ptolemäus wurde um 100 möglicherweise in Ptolemais Hermeiou, Ägypten geboren und starb nach 160 vermutlich in Alexandria. Er war ein griechischer Mathematiker, Geograf, Astronom, Astrologe, Musiktheoretiker und Philosoph. Er lebte in Alexandria in der römischen Provinz Ägypten. Insbesondere seine drei Werke zur Astronomie, Geografie und Astrologie galten in Europa bis zur frühen Neuzeit als wissenschaftliche Standardwerke und wichtige Datensammlungen. Der nach ihm benannte Satz von Ptolemäus ist ein Lehrsatz der Elementargeometrie, der eine Beziehung zwischen den Seiten und Diagonalen eines Sehnenvierecks beschreibt. Er lässt sich als Verallgemeinerung des Satzes von Pythagoras auf Sehnenvierecke auffassen.",
+        "headline": "Satz des Ptolemäus über Sehnenvierecke"
+      },
+      "start_date": {
+        "year": 140
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/37_Pappos.jpg"
+      },
+      "text": {
+        "text": "Pappos war ein griechischer Mathematiker und Astronom. Er lebte im 4. Jahrhundert in Alexandria und war einer der letzten bedeutenden Mathematiker der Antike. Sein Hauptwerk, die Mathematischen Sammlungen, sind eine Hauptquelle für unsere Kenntnis der Geometrie in der Antike. Er bestimmte Oberfläche und Volumen von Rotationskörpern mit der Zentrobarischen Regel (heute Guldinsche Regeln).",
+        "headline": "Formeln für Oberfläche und Volumen von Rotationskörper"
+      },
+      "start_date": {
+        "year": 350
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/37_Pappos.jpg"
+      },
+      "text": {
+        "text": "Pappos war ein griechischer Mathematiker und Astronom. Er lebte im 4. Jahrhundert in Alexandria und war einer der letzten bedeutenden Mathematiker der Antike. Sein Hauptwerk, die Mathematischen Sammlungen, sind eine Hauptquelle für unsere Kenntnis der Geometrie in der Antike. Der nach ihm benannte Satz von Pappos ist ein zentraler Satz in der affinen und projektiven Geometrie.",
+        "headline": "Satz von Pappos"
+      },
+      "start_date": {
+        "year": 350
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/37_Pappos.jpg"
+      },
+      "text": {
+        "text": "Pappos war ein griechischer Mathematiker und Astronom. Er lebte im 4. Jahrhundert in Alexandria und war einer der letzten bedeutenden Mathematiker der Antike. Sein Hauptwerk, die Mathematischen Sammlungen, sind eine Hauptquelle für unsere Kenntnis der Geometrie in der Antike. Die nach ihm benannte Flächenformel von Pappos behandelt eine wesentliche Verallgemeinerung des Satzes des Pythagoras und gilt für beliebige Dreiecke, wobei Parallelogramme anstelle der pythagoreischen Quadrate verwendet werden.",
+        "headline": "Flächenformel von Pappos (Pythagoras für beliebige Dreiecke mit Parallelogrammen statt Quadraten)"
+      },
+      "start_date": {
+        "year": 350
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/40_Aryabhata.jpg"
+      },
+      "text": {
+        "text": "Aryabhata wurde um 476 in Ashmaka geboren und starb um 550 ebbendort. Er war ein bedeutender indischer Mathematiker und Astronom. Aryabhata bestimmte die Kreiszahl Pi für damalige Verhältnisse sehr genau auf 3,1416 und könnte schon geahnt haben, dass es sich um eine irrationale Zahl handelt.",
+        "headline": "Pi auf 3,1416 bestimmt"
+      },
+      "start_date": {
+        "year": 520
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/40_Aryabhata.jpg"
+      },
+      "text": {
+        "text": "Aryabhata wurde um 476 in Ashmaka geboren und starb um 550 ebbendort. Er war ein bedeutender indischer Mathematiker und Astronom. Aryabhata arbeitete an Sehnenfunktionen, die den Vorläufer des heutigen Sinus darstellen.",
+        "headline": "Grundlagen für Sinusfunktion "
+      },
+      "start_date": {
+        "year": 520
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/43_Brahmagupta.jpg"
+      },
+      "text": {
+        "text": "Brahmagupta wurde 598 geboren und starb nach 665 und war ein indischer Mathematiker und Astronom. Er leitete das astronomische Observatorium in Ujjain und verfasste in dieser Funktion zwei Arbeiten zur Mathematik und zur Astronomie, das Brahmasphutasiddhanta im Jahre 628 und das Khandakhadyaka im Jahre 665. Der nach ihm benannte Satz von Brahmagupta  ist eine Aussage in der euklidischen Geometrie über Streckenverhältnisse in bestimmten Sehnenvierecken: Wenn die Diagonalen in einem Sehnenviereck aufeinander senkrecht stehen, dann teilt das Lot durch den Diagonalenschnittpunkt auf eine Seite deren gegenüberliegende Seite in zwei gleich große Strecken.",
+        "headline": "Satz von Brahmagupta über Sehnenvierecke"
+      },
+      "start_date": {
+        "year": 628
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/43_Brahmagupta.jpg"
+      },
+      "text": {
+        "text": "Brahmagupta wurde 598 geboren und starb nach 665 und war ein indischer Mathematiker und Astronom. Er leitete das astronomische Observatorium in Ujjain und verfasste in dieser Funktion zwei Arbeiten zur Mathematik und zur Astronomie, das Brahmasphutasiddhanta im Jahre 628 und das Khandakhadyaka im Jahre 665. Auf Brahmagupta geht auch die Formel zur Berechnung der Fläche von Sehnenvierecken zurück.",
+        "headline": "Formel von Brahmagupta zur Berechnung der Fläche von  Sehnenvierecken"
+      },
+      "start_date": {
+        "year": 628
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/45_Banu_Musa.jpg"
+      },
+      "text": {
+        "text": "Die Banū Mūsā Brüder sind drei iranische Gelehrte, die im 9. Jahrhundert in Bagdad wirkten. Ihre Namen waren Jafar Muḥammad ibn Mūsā ibn Shākir, Aḥmad ibn Mūsā ibn Shākir und Al-Ḥasan ibn Mūsā ibn Shākir. Sie waren die ersten, die Pi (bzw. Kreisfläche und -umfang) als Zahl angaben und nicht wie die Griechen zuvor als Verhältnis von Umfang zu Durchmesser.",
+        "headline": "Pi als Zahl, nicht wie bisher als Verhältnis"
+      },
+      "start_date": {
+        "year": 850
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/45_Banu_Musa.jpg"
+      },
+      "text": {
+        "text": "Die Banū Mūsā Brüder sind drei iranische Gelehrte, die im 9. Jahrhundert in Bagdad wirkten. Ihre Namen waren Jafar Muḥammad ibn Mūsā ibn Shākir, Aḥmad ibn Mūsā ibn Shākir und Al-Ḥasan ibn Mūsā ibn Shākir. Sie waren die ersten, die das Kugel- und Zylindervolumen als Zahl angaben und nicht wie die Griechen zuvor als Verhältnisse.",
+        "headline": "Kugel- und Zylindervolumen als Zahl, nicht wie bisher als Verhältnis"
+      },
+      "start_date": {
+        "year": 850
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/47_al_Battani.jpg"
+      },
+      "text": {
+        "text": "Abu Abdallah Mohammad ibn Jabir Al-Battani wurde 850 in Harran, Mesopotamien (heute Türkei) geboren und starb 929 in Qasr al-Jiss, Irak. Er war Astronom und machte durch den Einsatz trigonometrischer Methoden präzisere Messungen als seine Vorgänger. So verwendete er erstmals die Sinusfunktion, und nicht die Sehnenfunktion wie bisher. Auch die Formel für rechtwinklige Dreiecke, b * sin(A) = a * sin(90°-A), stammt von ihm. ",
+        "headline": "Einführung Sinus"
+      },
+      "start_date": {
+        "year": 900
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/47_al_Battani.jpg"
+      },
+      "text": {
+        "text": "Abu Abdallah Mohammad ibn Jabir Al-Battani wurde 850 in Harran, Mesopotamien (heute Türkei) geboren und starb 929 in Qasr al-Jiss, Irak. Er war Astronom und machte durch den Einsatz trigonometrischer Methoden präzisere Messungen als seine Vorgänger. Er stellte als erster die Identität tan = sin\/cos auf, jedoch ohne die Begriffe Kosinus und Tangens zu benutzen.",
+        "headline": "Identität tan = sin\/cos ohne Bezeichnungen cos,tan"
+      },
+      "start_date": {
+        "year": 900
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/47_al_Battani.jpg"
+      },
+      "text": {
+        "text": "Abu Abdallah Mohammad ibn Jabir Al-Battani wurde 850 in Harran, Mesopotamien (heute Türkei) geboren und starb 929 in Qasr al-Jiss, Irak. Er war Astronom und machte durch den Einsatz trigonometrischer Methoden präzisere Messungen als seine Vorgänger. Den Sinussatz formulierte al-Battani als erster in moderner Schreibweise und gab auch den ersten Beweis für diesen an.",
+        "headline": "Sinussatz + Beweis"
+      },
+      "start_date": {
+        "year": 900
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/50_Abu_l_Wafa.jpg"
+      },
+      "text": {
+        "text": "Mohammad Abu'l-Wafa Al-Buzjani wurde am 10. Juni 940 in Buzjan geboren und starb am 15. Juli 998 in Bagdad. Er war ein herausragender persischer Mathematiker und Astronom des Mittelalters, welcher mehrere Bücher über angewandte Mathematik schrieb, verschiedene bedeutende trigonometrische Entdeckungen machte und mittlerweile verloren gegangene Kommentare zu den Werken von Euklid, Diophant und al-Chwarizmi verfasste. So gebrauchte er als erster den Begriff des Tangens.",
+        "headline": "Erstmaliger Gebrauch des Tangens"
+      },
+      "start_date": {
+        "year": 980
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/50_Abu_l_Wafa.jpg"
+      },
+      "text": {
+        "text": "Mohammad Abu'l-Wafa Al-Buzjani wurde am 10. Juni 940 in Buzjan geboren und starb am 15. Juli 998 in Bagdad. Er war ein herausragender persischer Mathematiker und Astronom des Mittelalters, welcher mehrere Bücher über angewandte Mathematik schrieb, verschiedene bedeutende trigonometrische Entdeckungen machte und mittlerweile verloren gegangene Kommentare zu den Werken von Euklid, Diophant und al-Chwarizmi verfasste. Er führte auch die trigonometrischen Funktionen Sekans und Kosekans ein.",
+        "headline": "Einführung Sekans und Kosekans"
+      },
+      "start_date": {
+        "year": 980
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/50_Abu_l_Wafa.jpg"
+      },
+      "text": {
+        "text": "Mohammad Abu'l-Wafa Al-Buzjani wurde am 10. Juni 940 in Buzjan geboren und starb am 15. Juli 998 in Bagdad. Er war ein herausragender persischer Mathematiker und Astronom des Mittelalters, welcher mehrere Bücher über angewandte Mathematik schrieb, verschiedene bedeutende trigonometrische Entdeckungen machte und mittlerweile verloren gegangene Kommentare zu den Werken von Euklid, Diophant und al-Chwarizmi verfasste. Er war der erste, der vorschlug, die trigonometrischen Funktionen über den Einheitskreis zu definieren. ",
+        "headline": "Vorschlag, trigonometrische Funktionen über Einheitskreis zu definieren"
+      },
+      "start_date": {
+        "year": 980
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/50_Abu_l_Wafa.jpg"
+      },
+      "text": {
+        "text": "Mohammad Abu'l-Wafa Al-Buzjani wurde am 10. Juni 940 in Buzjan geboren und starb am 15. Juli 998 in Bagdad. Er war ein herausragender persischer Mathematiker und Astronom des Mittelalters, welcher mehrere Bücher über angewandte Mathematik schrieb, verschiedene bedeutende trigonometrische Entdeckungen machte und mittlerweile verloren gegangene Kommentare zu den Werken von Euklid, Diophant und al-Chwarizmi verfasste. Er bewies als erster den Sinussatz für allgemeine sphärische Dreiecke.",
+        "headline": "Sinussatz + Beweis für allgemeine sphärische Dreiecke"
+      },
+      "start_date": {
+        "year": 980
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/54_Fibonacci.jpg"
+      },
+      "text": {
+        "text": "Leonardo von Pisa wurde um 1170 in Pisa geboren und starb 1240 ebenda. Der Name Fibonacci ergab sich später aus \"figlio di Bonaccio\" (\u201ESohn des Bonaccio\u201C). Fibonacci war Rechenmeister in Pisa und gilt als einer der bedeutendsten Mathematiker des Mittelalters. Auf seinen Reisen nach Afrika, Byzanz und Syrien machte er sich mit der arabischen Mathematik vertraut und verfasste mit den dabei gewonnenen Erkenntnissen im Jahr 1202 das Rechenbuch Liber abbaci.",
+        "headline": "Zusammenfassung und Übersetzung der Trigonometrie der Araber"
+      },
+      "start_date": {
+        "year": 1202
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/55_Regiomontanus.jpg"
+      },
+      "text": {
+        "text": "Johann(es) Müller, später lateinisch genannt Regiomontanus \u201Eder Königsberger\u201C, wurde am 6. Juni 1436 in Königsberg in Bayern geboren und starb am 6. Juli 1476 in Rom. Er war ein bedeutender Mathematiker, Astronom und Verleger des Spätmittelalters. 1462 bis 1464 verfasste er das Werk \"De triangulis omnimodis\", in dem er die bekannte ebene und sphärische Trigonometrie formalisierte und so den Grundstein für die neuzeitliche Trigonometrie legte.",
+        "headline": "Formalisierung der ebenen und sphärischen Trigonometrie"
+      },
+      "start_date": {
+        "year": 1464
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/56_Duerer.jpg"
+      },
+      "text": {
+        "text": "Albrecht Dürer wurde am 21. Mai 1471 in Nürnberg geboren und starb am 6. April 1528 ebenda. Er war ein deutscher Maler, Grafiker, Mathematiker und Kunsttheoretiker. In seinem Buch \"Underweysung der messung mit dem zirckel und richtscheyt in Linien ebnen unnd gantzen corporen\" beschäftigte er sich mit der Konstruktion spezielle Kurven (Muschellinie, Pascalsche Schnecke). Außerdem gibt er eine neue Konstruktion der Ellipse an und erkennt Ellipse, Parabel und Hyperbel als Kegelschnitte. Motiviert durch das ganz praktische Problem, die Schrifthöhe in Abhängigkeit von der Höhe ihrer Anbringung so zu staffeln, dass alle Zeilen gleich hoch erscheinen, beschäftigte er sich mit Proportion und Perspektive.",
+        "headline": "Konstruktion von Figuren mit Zirkel und Lineal; Diskussion von Proportion und Perspektive"
+      },
+      "start_date": {
+        "year": 1525
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/57_Rheticus.jpg"
+      },
+      "text": {
+        "text": "Georg Joachim Rheticus wurde am 16. Februar 1514 in Feldkirch geboren und starb am 4. Dezember 1574 in Kaschau. Er war ein deutscher Mathematiker, Astronom, Theologe, Kartograph, Instrumentenmacher und Mediziner. Er definierte als erster die trigonometrischen Funktionen über das rechtwinklige Dreieck.",
+        "headline": "Definition trigonometrischer Funktionen über rechtwinkliges Dreieck"
+      },
+      "start_date": {
+        "year": 1551
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/57_Rheticus.jpg"
+      },
+      "text": {
+        "text": "Georg Joachim Rheticus wurde am 16. Februar 1514 in Feldkirch geboren und starb am 4. Dezember 1574 in Kaschau. Er war ein deutscher Mathematiker, Astronom, Theologe, Kartograph, Instrumentenmacher und Mediziner. Er berechnete für alle sechs trigonometrischen Funktionen Tabellen mit einer Schrittweite von 10 Sekunden.",
+        "headline": "Umfangreiche Tabellen für trigonometrische Funktionen"
+      },
+      "start_date": {
+        "year": 1551
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/59_Viete.jpg"
+      },
+      "text": {
+        "text": "François Viète wurde 1540 in Fontenay-le-Comte geboren und starb am 13. Dezember oder am 23. Februar 1603 in Paris. Er war ein französischer Advokat und Mathematiker. 1593 beschrieb er als erster eine geschlossene Formel für die Kreiszahl Pi in Form eines unendlichen Produkts.",
+        "headline": "Geschlossene Formel für Kreiszahl Pi"
+      },
+      "start_date": {
+        "year": 1593
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/60_Descartes.jpg"
+      },
+      "text": {
+        "text": "René Descartes wurde am 31. März 1596 in La Haye en Touraine geboren und starb am 11. Februar 1650 in Stockholm. Er war ein französischer Philosoph, Mathematiker und Naturwissenschaftler. In seinem Werk \"La Géométrie\"  verknüpfte er als erster Geometrie und Algebra und gilt somit als Begründer der analytischen Geometrie.",
+        "headline": "Begründung der analytischen Geometrie"
+      },
+      "start_date": {
+        "year": 1637
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/61_Desargues.jpg"
+      },
+      "text": {
+        "text": "Gérard Desargues wurde am 21. Februar 1591 in Lyon geboren und starb im Oktober 1661. Er war ein französischer Architekt und Mathematiker. Der nach ihm benannte Satz von Desargues spielt eine wichtige Rolle in den Grundlagen der Projektiven Geometrie.",
+        "headline": "Satz von Desargues"
+      },
+      "start_date": {
+        "year": 1639
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/61_Desargues.jpg"
+      },
+      "text": {
+        "text": "Gérard Desargues wurde am 21. Februar 1591 in Lyon geboren und starb im Oktober 1661. Er war ein französischer Architekt und Mathematiker. In seinem Werk \"Brouillon Projet\" entwicklete er die Grundlagen der Projektiven Geometrie, die aus Betrachtungen zur Perspektive entstand.",
+        "headline": "Grundlagen der projektiven Geometrie"
+      },
+      "start_date": {
+        "year": 1639
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/63_Pascal.jpg"
+      },
+      "text": {
+        "text": "Blaise Pascal wurde am 19. Juni 1623 in Clermont-Ferrand geboren und starb am 19. August 1662 in Paris. Er war ein französischer Mathematiker, Physiker, Literat und christlicher Philosoph. Der nach ihm benannte Satz von Pascal liefert eine Aussage zu Punkten auf einem Kegelschnitt in einer projektiven Ebene.",
+        "headline": "Satz von Pascal"
+      },
+      "start_date": {
+        "year": 1640
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/64_Cavalieri.jpg"
+      },
+      "text": {
+        "text": "Bonaventura Francesco Cavalieri wurde 1598 wahrscheinlich in Mailand geboren und starb am 30. November oder 3. Dezember 1647 in Bologna. Er war ein italienischer Jesuat, Mathematiker und Astronom. Das nach ihm benannte Prinzip von Cavalieri besagt, dass zwei Körper das gleiche Volumen haben, wenn all ihre Schnittflächen in Ebenen parallel zur Grundebene in entsprechenden Höhen den gleichen Flächeninhalt haben.",
+        "headline": "Prinzip von Cavalieri"
+      },
+      "start_date": {
+        "year": 1647
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/65_Fermat.jpg"
+      },
+      "text": {
+        "text": "Pierre de Fermat wurde 1607 in Beaumont-de-Lomagne gebroren und starb am 12. Januar 1665 in Castres. Er war ein französischer Mathematiker und Jurist. Er führte konkrete algebraische Gleichungen und eine feste Symbolik für die analytische Geometrie ein.",
+        "headline": "Konkrete algebraische Gleichungen und feste Symbolik für analytische Geometrie"
+      },
+      "start_date": {
+        "year": 1650
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/66_Ceva.jpg"
+      },
+      "text": {
+        "text": "Giovanni Ceva wurde am 1. September 1647 in Mailand geboren und starb am 13. Mai 1734 in Mantua. Er war ein italienischer Mathematiker. Der nach ihm benannte Satz von Ceva ist eine geometrische Aussage über Dreieckstransversalen. ",
+        "headline": "Satz von Ceva"
+      },
+      "start_date": {
+        "year": 1678
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/67_Newton.jpg"
+      },
+      "text": {
+        "text": "Sir Isaac Newton wurde am 4. Januar 1643 in Woolsthorpe-by-Colsterworth geboren und starb am 31. März 1727 in Kensington. Er war ein englischer Naturforscher und Verwaltungsbeamter. Newton fand die Reihendarstellungen für die Exponential-, die Sinus- und die Kosinusreihe.",
+        "headline": "Exponential-, Sinus- und Kosinusreihe"
+      },
+      "start_date": {
+        "year": 1704
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/68_Euler.jpg"
+      },
+      "text": {
+        "text": "Leonhard Euler wurde am 15. April 1707 in Basel geboren und starb am 18. September 1783 in Sankt Petersburg. war ein Schweizer Mathematiker und Physiker und einer der bedeutendsten Mathematiker der Geschichte. Er war der Begründer vieler moderner Symbole, so verwendete er z.B. Pi für die Kreiszahl, die Standardbezeichnungen des Dreiecks und den Buchstaben i für die imaginäre Einheit.",
+        "headline": "Begründer vieler Symbole: Pi für Kreiszahl, Standardbezeichnung Dreieck, i für sqrt(-1)"
+      },
+      "start_date": {
+        "year": 1758
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/68_Euler.jpg"
+      },
+      "text": {
+        "text": "Leonhard Euler wurde am 15. April 1707 in Basel geboren und starb am 18. September 1783 in Sankt Petersburg. war ein Schweizer Mathematiker und Physiker und einer der bedeutendsten Mathematiker der Geschichte. Der nach ihm benannte Eulersche Polyedersatz bringt die Anzahl der Ecken, Kanten und Flächen eines konvexen Polyeders in Zusammenhang.",
+        "headline": "Eulerscher Polyedersatz"
+      },
+      "start_date": {
+        "year": 1758
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/70_Legendre.jpg"
+      },
+      "text": {
+        "text": "Adrien-Marie Legendre wurde am 18. September 1752 in Paris geboren und starb am 10. Januar 1833 ebenda. Er war ein französischer Mathematiker. In seinem 1794 erschienenen Geometrielehrbuch (Éléments de géométrie) vereinfachte und modernisierte er die Elemente des Euklids. Sein Lehrbuch war bis ins 19: Jahrhundert an Schulen weit verbreitet.",
+        "headline": "Vereinfachung und Modernisierung der Elemente von Euklid"
+      },
+      "start_date": {
+        "year": 1794
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/71_Gauss.jpg"
+      },
+      "text": {
+        "text": "Johann Carl Friedrich Gauß wurde am 30. April 1777 in Braunschweig geboren und starb am 23. Februar 1855 in Göttingen. Er war ein deutscher Mathematiker, Astronom, Geodät und Physiker und wurde wegen seiner überragenden wissenschaftlichen Leistungen bereits zu seinen Lebzeiten als \u201EFürst der Mathematiker\u201C bezeichnet. Unabhängig von János Bolyai und Nikolai Lobatschewski beschäftigte sich Gauß mit dem Paralellenaxiom und bemerkte, dass dieses unabhängig von den anderen Axiomen der euklidischen Geometrie ist. Dies führte ihn zur nichteuklidischen Geometrie.",
+        "headline": "erste Ideen zur nichteuklidischen Geometrie"
+      },
+      "start_date": {
+        "year": 1811
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/71_Gauss.jpg"
+      },
+      "text": {
+        "text": "Johann Carl Friedrich Gauß wurde am 30. April 1777 in Braunschweig geboren und starb am 23. Februar 1855 in Göttingen. Er war ein deutscher Mathematiker, Astronom, Geodät und Physiker und wurde wegen seiner überragenden wissenschaftlichen Leistungen bereits zu seinen Lebzeiten als \u201EFürst der Mathematiker\u201C bezeichnet. Die nach ihm benannte Gaußsche Zahleneben liefert eine geometrische Veranschaulichung der komplexen Zahlen. ",
+        "headline": "Gaußsche Zahlenebene"
+      },
+      "start_date": {
+        "year": 1811
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/71_Gauss.jpg"
+      },
+      "text": {
+        "text": "Johann Carl Friedrich Gauß wurde am 30. April 1777 in Braunschweig geboren und starb am 23. Februar 1855 in Göttingen. Er war ein deutscher Mathematiker, Astronom, Geodät und Physiker und wurde wegen seiner überragenden wissenschaftlichen Leistungen bereits zu seinen Lebzeiten als \u201EFürst der Mathematiker\u201C bezeichnet. Gauß fand und bewies ein Konstruktionskriterium für regelmäßige n-Ecke mit Zirkel und Lineal und konstruierte ein regelmäßiges 17-Eck.",
+        "headline": "Kontruktionskriterium für regelmäßiges n-Eck mit Zirkel und Lineal"
+      },
+      "start_date": {
+        "year": 1811
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/74_Feuerbach.jpg"
+      },
+      "text": {
+        "text": "Karl Wilhelm Feuerbach wurde am 30. Mai 1800 in Jena geboren und starb am 12. März 1834 in Erlangen. Er war ein deutscher Mathematiker. Der nach ihm benannte Feuerbachkreis enthält 9 besondere Punkte des Dreiecks, nämlich die Mittelpunkte der Seiten, die Fußpunkte der Höhen und die Mittelpunkte der oberen Höhenabschnitte.",
+        "headline": "Feuerbachkreis"
+      },
+      "start_date": {
+        "year": 1822
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/75_Poncelet.jpg"
+      },
+      "text": {
+        "text": "Jean-Victor Poncelet wurde am 1. Juli 1788 in Metz geboren und starb am 22. Dezember 1867 in Paris. Er war französischer Mathematiker, Ingenieur und Physiker. Poncelet gilt als einer der BEgründer der projektiven Geometrie, denn auf ihn gehen die Invarianz des Doppelverhältnisses, projektive Verwandtschaften, das Dualitätsprinzip und Poncelets Kontinuitätsprinzip zurück.",
+        "headline": "fundamentale Ideen der projektiven Geometrie: Invarianz des Doppelverhältnisses, projektive Verwandtschaften, Dualitätsprinzip, Poncelets Kontinuitätsprinzip"
+      },
+      "start_date": {
+        "year": 1823
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/76_Lobatschewski.jpg"
+      },
+      "text": {
+        "text": "Nikolai Iwanowitsch Lobatschewski wurde am 1. Dezember 1792 in Nischni Nowgorod geboren und starb am 24. Februar 1856 in Kasan. Er war ein russischer Mathematiker. Lobatschewski fand eine Geometrie, in der das Parallelenaxiom nicht gilt, was zur nichteuklidischen hyperbolischen Geometrie führt.",
+        "headline": "Nichteuklidische hyperbolische Geometrie"
+      },
+      "start_date": {
+        "year": 1826
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/77_Moebius.jpg"
+      },
+      "text": {
+        "text": "August Ferdinand Möbius wurde am 17. November 1790 in Pforta geboren und starb am 26. September 1868 in Leipzig. Er war ein deutscher Mathematiker und Astronom an der Universität Leipzig. Möbius leistete mit der Einführung der homogenen Koordinaten und des Dualitätsprinzips wertvolle Beiträge zur analytischen Geometrie.",
+        "headline": "homogene Koordinaten und Dualitätsprinzip für analytische Geometrie"
+      },
+      "start_date": {
+        "year": 1827
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/78_Bolyai.jpg"
+      },
+      "text": {
+        "text": "János Bolyai wurde am 15. Dezember 1802 in Klausenburg geboren und starb am 27. Januar 1860 in Neumarkt am Mieresch. Er war ein ungarischer Mathematiker. Bolyai fand, wie Gauß und Lobatschewski, eine nichteuklidische Geometrie, eine \"absolut wahre (hyperbolische) Geometrie des Raumes\". ",
+        "headline": "Arbeit an nichteuklidischen Geometrien"
+      },
+      "start_date": {
+        "year": 1831
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/78_Bolyai.jpg"
+      },
+      "text": {
+        "text": "János Bolyai wurde am 15. Dezember 1802 in Klausenburg geboren und starb am 27. Januar 1860 in Neumarkt am Mieresch. Er war ein ungarischer Mathematiker. Bolyai führte den Begriff der absoluten Geometrie ein, zu der er alle Aussagen zählte, bei denen er nicht spezifizierte, ob das Parallelenaxiom gelten soll oder nicht. ",
+        "headline": "Begriff der absoluten Geometrie"
+      },
+      "start_date": {
+        "year": 1831
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/80_Monge.jpg"
+      },
+      "text": {
+        "text": "Gaspard Monge wurde am 9. Mai 1746 in Beaune geboren und starb am 28. Juli 1818 in Paris. Er war ein französischer Mathematiker, Physiker und Chemiker sowie Minister. Er arbeitete an der Darstellung von dreidimensionalen Objekten im zweidimensionalen Raum und gilt damit als BEgründer der darstellenden Geometrie.",
+        "headline": "Begründung der darstellenden Geometrie"
+      },
+      "start_date": {
+        "year": 1847
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/81_Riemann.jpg"
+      },
+      "text": {
+        "text": "Georg Friedrich Bernhard Riemann wurde am 17. September 1826 in Breselenz geboren und starb am 20. Juli 1866 in Selasca. Er war ein deutscher Mathematiker und gilt als einer der bedeutendsten Mathematiker seiner Zeit. In seiner Habilitation entwicklete er das Riemann Integral, das beispielsweise im Schulunterricht verwendet wird, um die Fläche unter einer Kurve zu berechnen.",
+        "headline": "Riemann Integral"
+      },
+      "start_date": {
+        "year": 1857
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/82_Klein.jpg"
+      },
+      "text": {
+        "text": "Felix Christian Klein wurde am 25. April 1849 in Düsseldorf geboren und starb am 22. Juni 1925 in Göttingen. Er war ein deutscher Mathematiker. In seinem sogenannten Erlanger Programm stellte er eine Systematisierung der damals bekannten verschiedenen Geometrien dar.",
+        "headline": "Klassifizierung verschiedener Geometrien"
+      },
+      "start_date": {
+        "year": 1871
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/83_Poincare.jpg"
+      },
+      "text": {
+        "text": "Jules Henri Poincaré wurde am 29. April 1854 in Nancy geboren und starb am 17. Juli 1912 in Paris. Er war ein bedeutender französischer Mathematiker, theoretischer Physiker, theoretischer Astronom und Philosoph. Auf ihn gehen zwei Modelle der hyperbolischen Geometrie zurück, nämlich das Poincarésche Kreisscheibenmodell und das Poincarésche Halbebenenmodell.",
+        "headline": "Poincarésches Kreisscheibenmodell und Poincarésches Halbebenenmodell für hyperbolische Geometrie"
+      },
+      "start_date": {
+        "year": 1890
+      }
+    },
+    {
+      "media": {
+        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "url": "\/pic\/84_Hilbert.jpg"
+      },
+      "text": {
+        "text": "David Hilbert wurde am 23. Januar 1862 in Königsberg geboren und starb am 14. Februar 1943 in Göttingen. Er war ein deutscher Mathematiker und gilt als einer der bedeutendsten Mathematiker der Neuzeit. In seinem fundamentalen Werk \"Grundlagen der Geometrie\" entwarf Hilbert für die euklidische Geometrie ein vollständiges Axiomensystem und baute darauf die komplette euklidische Geometrie streng axiomatisch auf. Hilbert wird der Ausspruch zugeschrieben, man könne statt \u201EPunkte, Geraden und Ebenen\u201C jederzeit auch \u201ETische, Stühle und Bierseidel\u201C sagen. Es komme nur darauf an, dass die Axiome erfüllt sind. ",
+        "headline": "Formaler axiomatischer Aufbau der Geometrie"
+      },
+      "start_date": {
+        "year": 1899
+      }
+    }
+  ]
 }
