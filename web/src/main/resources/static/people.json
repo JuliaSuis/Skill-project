@@ -1,0 +1,1081 @@
+{
+    "title": {
+        "media": {
+            "url": "/pic/00_Reale_Objekte.jpg",
+            "caption": "caption"
+        },
+        "text": {
+            "headline": "Mathematical discoveries<br/> 1850 BCE - 1899",
+            "text": "<p>The data are presented from the view of time axis.</p>"
+        }
+    },
+    "events": [
+
+        {
+            "media": {
+                "url": "/pic/01_Moskauer_papyrus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-flaeche-umfang-kreis-dreieck.html"
+            },
+            "start_date": {
+                "year": "-1850"
+            },
+            "text": {
+                "headline": "Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256/81)",
+                "text": "Moskauer Papyrus:  Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256/81)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/01_Moskauer_papyrus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1850"
+            },
+            "text": {
+                "headline": "Raumgeometrie - Volumen verschiedener Körper",
+                "text": "Moskauer Papyrus:  Raumgeometrie - Volumen verschiedener Körper"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/01_Moskauer_papyrus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1850"
+            },
+            "text": {
+                "headline": "Raumgeometrie - Oberfläche verschiedener Körper",
+                "text": "Moskauer Papyrus:  Raumgeometrie - Oberfläche verschiedener Körper"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/04_Tontafeln_der_Babylonier.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1700"
+            },
+            "text": {
+                "headline": "Allgemeine Regeln zur Flächenberechnung",
+                "text": "Tontafeln der Babylonier:  Allgemeine Regeln zur Flächenberechnung"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/04_Tontafeln_der_Babylonier.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1700"
+            },
+            "text": {
+                "headline": "Satz des Pythagoras",
+                "text": "Tontafeln der Babylonier:  Satz des Pythagoras"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/04_Tontafeln_der_Babylonier.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1700"
+            },
+            "text": {
+                "headline": "Kreisumfang und Kreisfläche (Pi = 3)",
+                "text": "Tontafeln der Babylonier:  Kreisumfang und Kreisfläche (Pi = 3)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/04_Tontafeln_der_Babylonier.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1700"
+            },
+            "text": {
+                "headline": "Allgemeine Regeln zur Volumenberechnung",
+                "text": "Tontafeln der Babylonier:  Allgemeine Regeln zur Volumenberechnung"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/08_Papyrus_Rhind.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1550"
+            },
+            "text": {
+                "headline": "Flächeninhalt gleichschenkliges Dreieck",
+                "text": "Ahmes (Papyrus Rhind):  Flächeninhalt gleichschenkliges Dreieck (A=1/2 * g * h)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/08_Papyrus_Rhind.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1550"
+            },
+            "text": {
+                "headline": "Kreisumfang und Kreisfläche",
+                "text": "Ahmes (Papyrus Rhind):  Kreisumfang und Kreisfläche (Pi = 256/81)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/08_Papyrus_Rhind.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1550"
+            },
+            "text": {
+                "headline": "Volumen Zylinder",
+                "text": "Ahmes (Papyrus Rhind):  Volumen Zylinder (Pi = 256/81)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/08_Papyrus_Rhind.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-1550"
+            },
+            "text": {
+                "headline": "Steigung Pyramide = Gegenkathete/Ankathete",
+                "text": "Ahmes (Papyrus Rhind):  Trigonometrie - Steigung Pyramide = Gegenkathete/Ankathete"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/12_Thales_von_Milet.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-580"
+            },
+            "text": {
+                "headline": "Satz des Thales",
+                "text": "Thales von Milet: Satz des Thales"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/12_Thales_von_Milet.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-580"
+            },
+            "text": {
+                "headline": "Strahlensatz",
+                "text": "Thales von Milet:  Strahlensatz "
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/14_Pythagoras_von_Samos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-520"
+            },
+            "text": {
+                "headline": "Beweis des Satz des Pythagoras",
+                "text": "Pythagoras von Samos: Beweis des Satz des Pythagoras"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/14_Pythagoras_von_Samos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-520"
+            },
+            "text": {
+                "headline": "Dreieck Kongruenzsätze",
+                "text": "Pythagoras von Samos: Dreieck Kongruenzsätze"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/14_Pythagoras_von_Samos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-520"
+            },
+            "text": {
+                "headline": "Dreieck Innenwinkelsumme",
+                "text": "Pythagoras von Samos: Dreieck Innenwinkelsumme"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/14_Pythagoras_von_Samos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-520"
+            },
+            "text": {
+                "headline": "Dreieck Inn- und Umkreis",
+                "text": "Pythagoras von Samos: Dreieck Inn- und Umkreis"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/18_Eudoxos_von_Knidos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-360"
+            },
+            "text": {
+                "headline": "Allgemeine Proportionenlehre (irrationale Zahlen, Verhältnisse, Verhältnisgleichungen)",
+                "text": "Eudoxox von Knidos:  allgemeine Proportionenlehre (irrationale Zahlen, Verhältnisse, Verhältnisgleichungen)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/18_Eudoxos_von_Knidos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-360"
+            },
+            "text": {
+                "headline": "Volumen Pyramide",
+                "text": "Eudoxox von Knidos:  Volumen Pyramide = 1/3 Volumen Prisma"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/18_Eudoxos_von_Knidos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-360"
+            },
+            "text": {
+                "headline": "Kegelvolumen",
+                "text": "Eudoxox von Knidos:  Kegelvolumen = 1/3 Zylindervolumen"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/18_Eudoxos_von_Knidos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-360"
+            },
+            "text": {
+                "headline": "Exhaustionsmethode",
+                "text": "Eudoxox von Knidos:  Exhaustionsmethode"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/22_Euklid_von_Alexandria.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-320"
+            },
+            "text": {
+                "headline": "Axiomatisierung der Geometrie",
+                "text": "Euklid von Alexandria: (Elemente) Axiomatisierung der Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/22_Euklid_von_Alexandria.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-320"
+            },
+            "text": {
+                "headline": "Höhensatz, Kathetensatz, Kosinussatz",
+                "text": "Euklid von Alexandria: (Elemente) Höhensatz, Kathetensatz, Kosinussatz"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/24_Archimedes_von_Syrakus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-225"
+            },
+            "text": {
+                "headline": "Beliebig genau Näherung für Pi",
+                "text": "Archimedes von Syrakus:  beliebig genau Näherung für Pi (mit 96-Eck: 3 + 10/71 < Pi)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/24_Archimedes_von_Syrakus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-225"
+            },
+            "text": {
+                "headline": "Flächen- und Volumenberechnungen",
+                "text": "Archimedes von Syrakus:  Flächen- und Volumenberechnungen (Form von Prinzip von Cavalieri)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/26_Apollonios_von_Perge.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-210"
+            },
+            "text": {
+                "headline": "Definition Ellipse, Kreis, Parabel durch Kegelschnitte",
+                "text": "Apollonius von Perge  -  Definition Ellipse, Kreis, Parabel durch Kegelschnitte'"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/26_Apollonios_von_Perge.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "-210"
+            },
+            "text": {
+                "headline": "Apollonisches Problem",
+                "text": "Apollonius von Perge  -  Apollonisches Problem"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/28_Heron_von_Alexandria.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "50"
+            },
+            "text": {
+                "headline": "Heronverfahren",
+                "text": "Heron von Alexandria  -  Heronverfahren"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/28_Heron_von_Alexandria.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "50"
+            },
+            "text": {
+                "headline": "Satz von Heron",
+                "text": "Heron von Alexandria - Satz von Heron"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/28_Heron_von_Alexandria.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "50"
+            },
+            "text": {
+                "headline": "Formel für Oberfläche von Pyramide, Zylinder, Kugel",
+                "text": "Heron von Alexandria: (Metrica) Formel für Oberfläche von Pyramide, Zylinder, Kugel"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/28_Heron_von_Alexandria.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "50"
+            },
+            "text": {
+                "headline": "Formel für Volumen von Pyramide, Zylinder, Kugel, Prisma",
+                "text": "Heron von Alexandria: (Metrica) Formel für Volumen von Pyramide, Zylinder, Kugel, Prisma"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/32_Menelaos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "90"
+            },
+            "text": {
+                "headline": "Sphärische Geometrie",
+                "text": "Menelaos: (Sphaerica) Sphärische Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/32_Menelaos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "90"
+            },
+            "text": {
+                "headline": "Sehnenfunktion",
+                "text": "Menelaos: Sehnenfunktion (Vorläufer des Sinus)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/32_Menelaos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "90"
+            },
+            "text": {
+                "headline": "Satz von Menelaos",
+                "text": "Menelaos:  Satz von Menelaos"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/35_Claudius_Ptolemaeus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "140"
+            },
+            "text": {
+                "headline": "Triangulation und Sehnentafeln",
+                "text": "Claudius Ptolemäus: (Almagest) Triangulation und Sehnentafeln (Vorläufer der Trigonometrie)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/35_Claudius_Ptolemaeus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "140"
+            },
+            "text": {
+                "headline": "Satz des Ptolemäus über Sehnenvierecke",
+                "text": "Claudius Ptolemäus: Satz des Ptolemäus über Sehnenvierecke"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/37_Pappos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "350"
+            },
+            "text": {
+                "headline": "Formeln für Oberfläche und Volumen von Rotationskörper",
+                "text": "Pappos: (Mathematische Sammlungen) Formeln für Oberfläche und Volumen von Rotationskörper"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/37_Pappos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "350"
+            },
+            "text": {
+                "headline": "Satz von Pappos",
+                "text": "Pappos: (Mathematische Sammlungen) Satz von Pappos"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/37_Pappos.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "350"
+            },
+            "text": {
+                "headline": "Flächenformel von Pappos",
+                "text": "Pappos: Flächenformel von Pappos (Pythagoras für beliebige Dreiecke mit Parallelogrammen statt Quadraten)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/40_Aryabhata.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "520"
+            },
+            "text": {
+                "headline": "Pi auf 3,1416 bestimmt",
+                "text": "Aryabhata:  Pi auf 3,1416 bestimmt"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/40_Aryabhata.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "520"
+            },
+            "text": {
+                "headline": "Grundlagen für Sinusfunktion",
+                "text": "Aryabhata: Grundlagen für Sinusfunktion"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/43_Brahmagupta.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "628"
+            },
+            "text": {
+                "headline": "Satz von Brahmagupta über Sehnenvierecke",
+                "text": "Brahmagupta: (Brahmasphutasiddhanta) Satz von Brahmagupta über Sehnenvierecke"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/43_Brahmagupta.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "628"
+            },
+            "text": {
+                "headline": "Formel von Brahmagupta zur Berechnung der Fläche von Sehnenvierecken",
+                "text": "Brahmagupta: (Brahmasphutasiddhanta) Formel von Brahmagupta zur Berechnung der Fläche von Sehnenvierecken"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/45_Banu_Musa.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "850"
+            },
+            "text": {
+                "headline": "Kreisfläche als Zahl, nicht wie bisher als Verhältnis",
+                "text": "Banū Mūsā Brüder: (Kitab marifat masakhat al-ashkal) Kreisfläche als Zahl, nicht wie bisher als Verhältnis"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/45_Banu_Musa.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "850"
+            },
+            "text": {
+                "headline": "Kugel- und Zylindervolumen als Zahl, nicht wie bisher als Verhältnis",
+                "text": "Banū Mūsā Brüder: (Kitab marifat masakhat al-ashkal) Kugel- und Zylindervolumen als Zahl, nicht wie bisher als Verhältnis"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/47_al_Battani.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "900"
+            },
+            "text": {
+                "headline": "Einführung Sinus",
+                "text": "al Battani: Einführung Sinus "
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/47_al_Battani.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "900"
+            },
+            "text": {
+                "headline": "Identität tan = sin/cos ohne Bezeichnungen cos,tan",
+                "text": "al Battani: Identität tan = sin/cos ohne Bezeichnungen cos,tan"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/47_al_Battani.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "900"
+            },
+            "text": {
+                "headline": "Sinussatz + Beweis",
+                "text": "al Battani: Sinussatz + Beweis"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/50_Abu_l_Wafa.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "980"
+            },
+            "text": {
+                "headline": "Erstmaliger Gebrauch des Tangens",
+                "text": "Abu l Wafa:  Erstmaliger Gebrauch des Tangens"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/50_Abu_l_Wafa.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "980"
+            },
+            "text": {
+                "headline": "Einführung Sekans und Kosekans",
+                "text": "Abu l Wafa:  Einführung Sekans und Kosekans"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/50_Abu_l_Wafa.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "980"
+            },
+            "text": {
+                "headline": "Vorschlag, trigonometrische Funktionen über Einheitskreis zu definieren",
+                "text": "Abu l Wafa:  Vorschlag, trigonometrische Funktionen über Einheitskreis zu definieren"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/50_Abu_l_Wafa.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "980"
+            },
+            "text": {
+                "headline": "Sinussatz + Beweis für allgemeine sphärische Dreiecke",
+                "text": "Abu l Wafa:  Sinussatz + Beweis für allgemeine sphärische Dreiecke"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/54_Fibonacci.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1202"
+            },
+            "text": {
+                "headline": "Zusammenfassung und Übersetzung der Trigonometrie der Araber",
+                "text": "Leonardo von Pisa / Fibonacci (Liber abbaci): Zusammenfassung und Übersetzung der Trigonometrie der Araber"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/55_Regiomontanus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1464"
+            },
+            "text": {
+                "headline": "Formalisierung der ebenen und sphärischen Trigonometrie",
+                "text": "Regiomontanus (Johannes Müller): Formalisierung der ebenen und sphärischen Trigonometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/56_Duerer.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1525"
+            },
+            "text": {
+                "headline": "Konstruktion von Figuren mit Zirkel und Lineal; Diskussion von Proportion und Perspektive",
+                "text": "Albrecht Dürer: (Underweysung der Messung, mit dem Zirckel und Richtscheyt, in Linien, Ebenen unnd gantzen corporen) Konstruktion von Figuren mit Zirkel und Lineal; Diskussion von Proportion und Perspektive"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/57_Rheticus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1551"
+            },
+            "text": {
+                "headline": "Definition trigonometrischer Funktionen über rechtwinkliges Dreieck",
+                "text": "Georg Joachim Rheticus: (Canon Doctrinae)  Definition trigonometrischer Funktionen über rechtwinkliges Dreieck"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/57_Rheticus.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1551"
+            },
+            "text": {
+                "headline": "Umfangreiche Tabellen für trigonometrische Funktionen",
+                "text": "Georg Joachim Rheticus: (Canon Doctrinae)  Umfangreiche Tabellen für trigonometrische Funktionen"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/60_Descartes.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1637"
+            },
+            "text": {
+                "headline": "Begründung der analytischen Geometrie",
+                "text": "René Descartes: (La Géométrie) Begründung der analytischen Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/61_Desargues.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1639"
+            },
+            "text": {
+                "headline": "Satz von Desargues",
+                "text": "Gérard Desargues: (Brouillon Projet) Satz von Desargues"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/61_Desargues.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1639"
+            },
+            "text": {
+                "headline": "Grundlagen der projektiven Geometrie",
+                "text": "Gérard Desargues: (Brouillon Projet) Grundlagen der projektiven Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/63_Pascal.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1640"
+            },
+            "text": {
+                "headline": "Satz von Pascal",
+                "text": "Blaise Pascal: Satz von Pascal"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/64_Cavalieri.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1647"
+            },
+            "text": {
+                "headline": "Prinzip von Cavalieri",
+                "text": "Bonaventura Cavalieri: Prinzip von Cavalieri"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/65_Fermat.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1650"
+            },
+            "text": {
+                "headline": "Konkrete algebraische Gleichungen und feste Symbolik für analytische Geometrie",
+                "text": "Pierre de Fermat: Konkrete algebraische Gleichungen und feste Symbolik für analytische Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/66_Ceva.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1678"
+            },
+            "text": {
+                "headline": "Satz von Ceva",
+                "text": "Giovanni Ceva: (De lineis rectis se invicem secantibus statica constructio) Satz von Ceva"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/67_Newton.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1704"
+            },
+            "text": {
+                "headline": "Exponential-, Sinus- und Kosinusreihe",
+                "text": "Isaac Newton: Exponential-, Sinus- und Kosinusreihe"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/68_Euler.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1758"
+            },
+            "text": {
+                "headline": "Begründer vieler Symbole",
+                "text": "Leonhard Euler:  Begründer vieler Symbole: Pi für Kreiszahl, Standardbezeichnung Dreieck, i für sqrt(-1)"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/68_Euler.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1758"
+            },
+            "text": {
+                "headline": "Eulerscher Polyedersatz",
+                "text": "Leonhard Euler:  Eulerscher Polyedersatz"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/70_Legendre.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1794"
+            },
+            "text": {
+                "headline": "Vereinfachung und Modernisierung der Elemente von Euklid",
+                "text": "Adrien-Marie Legendre: (Éléments de géométrie) Vereinfachung und Modernisierung der Elemente von Euklid"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/71_Gauss.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1811"
+            },
+            "text": {
+                "headline": "Erste Ideen zur nichteuklidischen Geometrie",
+                "text": "Carl Friedrich Gauß: erste Ideen zur nichteuklidischen Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/71_Gauss.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1811"
+            },
+            "text": {
+                "headline": "Gaußsche Zahlenebene",
+                "text": "Carl Friedrich Gauß: Gaußsche Zahlenebene"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/71_Gauss.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1811"
+            },
+            "text": {
+                "headline": "Kontruktionskriterium für regelmäßiges n-Eck mit Zirkel und Lineal",
+                "text": "Carl Friedrich Gauß: Kontruktionskriterium für regelmäßiges n-Eck mit Zirkel und Lineal"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/74_Feuerbach.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1822"
+            },
+            "text": {
+                "headline": "Feuerbachkrei",
+                "text": "Karl Wilhelm Feuerbach:  Feuerbachkreis"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/75_Poncelet.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1823"
+            },
+            "text": {
+                "headline": "Fundamentale Ideen der projektiven Geometrie",
+                "text": "Jean-Victor Poncelet: fundamentale Ideen der projektiven Geometrie: Invarianz des Doppelverhältnisses, projektive Verwandtschaften, Dualitätsprinzip, Poncelets Kontinuitätsprinzip"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/76_Lobatschewski.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1826"
+            },
+            "text": {
+                "headline": "Nichteuklidische hyperbolische Geometrie",
+                "text": "Nikolai Iwanowitsch Lobatschewski: Nichteuklidische hyperbolische Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/77_Moebius.png",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1827"
+            },
+            "text": {
+                "headline": "Homogene Koordinaten und Dualitätsprinzip für analytische Geometrie",
+                "text": "August Ferdinand Möbius: homogene Koordinaten und Dualitätsprinzip für analytische Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/78_Bolyai.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1831"
+            },
+            "text": {
+                "headline": "Arbeit an nichteuklidischen Geometrien",
+                "text": "János Bolyai: Arbeit an nichteuklidischen Geometrien"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/78_Bolyai.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1831"
+            },
+            "text": {
+                "headline": "Begriff der absoluten Geometrie",
+                "text": "János Bolyai:  Begriff der absoluten Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/80_Monge.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1847"
+            },
+            "text": {
+                "headline": "Begründung der darstellenden Geometrie",
+                "text": "Gaspard Monge: (Géométrie descriptive) Begründung der darstellenden Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/81_Riemann.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1857"
+            },
+            "text": {
+                "headline": "Riemann Integral",
+                "text": "Bernhard Riemann: Riemann Integral"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/82_Klein.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1871"
+            },
+            "text": {
+                "headline": "Klassifizierung verschiedener Geometrien",
+                "text": "Felix Klein: (Erlanger Programm) Klassifizierung verschiedener Geometrien"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/83_Poincare.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1890"
+            },
+            "text": {
+                "headline": "Poincarésches Kreisscheibenmodell und Poincarésches Halbebenenmodell für hyperbolische Geometrie",
+                "text": "Henri Poincaré: Poincarésches Kreisscheibenmodell und Poincarésches Halbebenenmodell für hyperbolische Geometrie"
+            }
+        },
+        {
+            "media": {
+                "url": "/pic/84_Hilbert.jpg",
+                "link": "https://www.frustfrei-lernen.de/mathematik/geometrie-volumen-oberflaeche-fass-kugel.html"
+            },
+            "start_date": {
+                "year": "1899"
+            },
+            "text": {
+                "headline": "Formaler axiomatischer Aufbau der Geometrie",
+                "text": "David Hilbert: (Grundlagen der Geometrie) Formaler axiomatischer Aufbau der Geometrie"
+            }
+        }
+    ]
+}
