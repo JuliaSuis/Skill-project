@@ -1,0 +1,28 @@
+{
+  "comment": "Node 3 graph",
+  "nodes": [
+    {
+      "id": 3,
+      "caption": "Raumgeometrie - Oberfläche verschiedener Körper",
+      "role": "Base",
+      "date": "1.850 BCE",
+      "root": true
+    },
+    {
+      "id": 30,
+      "caption": "Formel für Oberfläche von Pyramide, Zylinder, Kugel",
+      "role": "Main",
+      "date": "50",
+      "root": false
+    }
+  ],
+  "edges": [
+    {
+      "source": 3,
+      "target": 30,
+      "caption": "8",
+      "load": 8
+    }
+  ]
+}
+

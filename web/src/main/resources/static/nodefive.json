@@ -1,0 +1,28 @@
+{
+  "comment": "Node 5 graph",
+  "nodes": [
+    {
+      "id": 5,
+      "caption": "Satz des Pythagoras",
+      "role": "Base",
+      "date": "1.700 BCE",
+      "root": true
+    },
+    {
+      "id": 14,
+      "caption": "Beweis des Satz des Pythagoras",
+      "role": "Main",
+      "date": "520 BCE",
+      "root": false
+    }
+  ],
+  "edges": [
+    {
+      "source": 5,
+      "target": 14,
+      "caption": "10",
+      "load": 10
+    }
+  ]
+}
+

@@ -67,6 +67,7 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
         <div class="container">
+            <br><br><br><br><br>
             <h1 class="display-3">Welcome to SKILL .... project!</h1>
             <p>This is a template for a our website. It includes a large callout called a jumbotron and three supporting pieces of content. Also we have to think about server and opportunity to sign in to the website. Only admin has to have the premisssion to edit/delete data.</p>
             <p><a class="btn btn-warning btn-lg" href="#" role="button">Learn more &raquo;</a></p>
@@ -99,7 +100,7 @@
 </main>
 
 <footer class="container">
-    <p>&copy; SKILL 2017</p>
+    <p>&copy; SKILL 2018</p>
 </footer>
 
 <!-- Bootstrap core JavaScript

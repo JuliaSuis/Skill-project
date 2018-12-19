@@ -121,7 +121,8 @@ public class DataExportEndpoint {
             {
                 JSONObject node = new JSONObject();
                 node.put("id",n.getId2());
-                node.put("label",n.getName()+ " - "+n.getText()+" - "+n.getTime());
+                //node.put("label",n.getName()+ " - "+n.getText()+" - "+n.getTime());
+                node.put("label",n.getName()+" - "+n.getTime());
                 node.put("group",n.getTime());
 
                 nodesArray.add(node);

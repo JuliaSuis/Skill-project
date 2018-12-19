@@ -11,8 +11,32 @@
   },
   "events": [
     {
+      "link": {
+        "links": "0",
+        "id": "0"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node0",
+        "url": "\/pic\/00_Reale_Objekte.jpg"
+      },
+      "text": {
+        "text": "Die Ursprünge der Mathematik liegen im Zählen von Objekten und der Untersuchung von Eigenschaften realer Objekte. Die Pyramiden in Ägypten, die ca 4.500 v.Chr. Erbaut wurden, zeigen bereits das Vorhandensein mathematischer Kenntnisse.",
+        "headline": "Reale Objekte"
+      },
+      "start_date": {
+        "year": -4500
+      },
+      "group": {
+        "group": "Alte Ägypter"
+      }
+    },
+    {
+      "link": {
+        "links": "0 (10)",
+        "id": "1"
+      },
+      "media": {
+        "link": "node1",
         "url": "\/pic\/01_Moskauer_Papyrus.jpg"
       },
       "text": {
@@ -21,11 +45,18 @@
       },
       "start_date": {
         "year": -1850
+      },
+      "group": {
+        "group": "Moskauer Papyrus"
       }
     },
     {
+      "link": {
+        "links": "0 (10)",
+        "id": "2"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node2",
         "url": "\/pic\/01_Moskauer_Papyrus.jpg"
       },
       "text": {
@@ -34,11 +65,18 @@
       },
       "start_date": {
         "year": -1850
+      },
+      "group": {
+        "group": "Moskauer Papyrus"
       }
     },
     {
+      "link": {
+        "links": "0 (10)",
+        "id": "3"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node3",
         "url": "\/pic\/01_Moskauer_Papyrus.jpg"
       },
       "text": {
@@ -47,11 +85,18 @@
       },
       "start_date": {
         "year": -1850
+      },
+      "group": {
+        "group": "Moskauer Papyrus"
       }
     },
     {
+      "link": {
+        "links": "1 (9)",
+        "id": "4"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node4",
         "url": "\/pic\/04_Tontafeln_der_Babylonier.jpg"
       },
       "text": {
@@ -60,11 +105,18 @@
       },
       "start_date": {
         "year": -1700
+      },
+      "group": {
+        "group": "Tontafeln der Babylonier"
       }
     },
     {
+      "link": {
+        "links": "1 (2)",
+        "id": "5"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node5",
         "url": "\/pic\/04_Tontafeln_der_Babylonier.jpg"
       },
       "text": {
@@ -73,11 +125,18 @@
       },
       "start_date": {
         "year": -1700
+      },
+      "group": {
+        "group": "Tontafeln der Babylonier"
       }
     },
     {
+      "link": {
+        "links": "0,1 (10\/6)",
+        "id": "6"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node6",
         "url": "\/pic\/04_Tontafeln_der_Babylonier.jpg"
       },
       "text": {
@@ -85,12 +144,19 @@
         "headline": "Kreisumfang und Kreisfläche (Pi = 3)"
       },
       "start_date": {
-        "year": -99999
+        "year": -1700
+      },
+      "group": {
+        "group": "Tontafeln der Babylonier"
       }
     },
     {
+      "link": {
+        "links": "2 (9)",
+        "id": "7"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node7",
         "url": "\/pic\/04_Tontafeln_der_Babylonier.jpg"
       },
       "text": {
@@ -99,11 +165,18 @@
       },
       "start_date": {
         "year": -1700
+      },
+      "group": {
+        "group": "Tontafeln der Babylonier"
       }
     },
     {
+      "link": {
+        "links": "4 (7)",
+        "id": "8"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node8",
         "url": "\/pic\/08_Papyrus_Rhind.jpg"
       },
       "text": {
@@ -112,11 +185,18 @@
       },
       "start_date": {
         "year": -1550
+      },
+      "group": {
+        "group": "Ahmes (Papyrus Rhind)"
       }
     },
     {
+      "link": {
+        "links": "6 (9)",
+        "id": "9"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node9",
         "url": "\/pic\/08_Papyrus_Rhind.jpg"
       },
       "text": {
@@ -125,11 +205,18 @@
       },
       "start_date": {
         "year": -1550
+      },
+      "group": {
+        "group": "Ahmes (Papyrus Rhind)"
       }
     },
     {
+      "link": {
+        "links": "7,9 (7\/4)",
+        "id": "10"
+      },
       "media": {
-        "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
+        "link": "node10",
         "url": "\/pic\/08_Papyrus_Rhind.jpg"
       },
       "text": {
@@ -138,9 +225,16 @@
       },
       "start_date": {
         "year": -1550
+      },
+      "group": {
+        "group": "Ahmes (Papyrus Rhind)"
       }
     },
     {
+      "link": {
+        "links": "0 (8)",
+        "id": "11"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/08_Papyrus_Rhind.jpg"
@@ -151,9 +245,16 @@
       },
       "start_date": {
         "year": -1550
+      },
+      "group": {
+        "group": "Ahmes (Papyrus Rhind)"
       }
     },
     {
+      "link": {
+        "links": "8,9 (3\/4)",
+        "id": "12"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/12_Thales_von_Milet.jpg"
@@ -164,9 +265,16 @@
       },
       "start_date": {
         "year": -580
+      },
+      "group": {
+        "group": "Thales von Milet"
       }
     },
     {
+      "link": {
+        "links": "8,11 (1\/4)",
+        "id": "13"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/12_Thales_von_Milet.jpg"
@@ -177,9 +285,16 @@
       },
       "start_date": {
         "year": -580
+      },
+      "group": {
+        "group": "Thales von Milet"
       }
     },
     {
+      "link": {
+        "links": "5,8 (10\/5)",
+        "id": "14"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/14_Pythagoras_von_Samos.jpg"
@@ -190,9 +305,16 @@
       },
       "start_date": {
         "year": -520
+      },
+      "group": {
+        "group": "Pythagoras von Samos"
       }
     },
     {
+      "link": {
+        "links": "8,11 (2\/7)",
+        "id": "15"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/14_Pythagoras_von_Samos.jpg"
@@ -203,9 +325,16 @@
       },
       "start_date": {
         "year": -520
+      },
+      "group": {
+        "group": "Pythagoras von Samos"
       }
     },
     {
+      "link": {
+        "links": "8,13 (4\/6)",
+        "id": "16"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/14_Pythagoras_von_Samos.jpg"
@@ -216,9 +345,16 @@
       },
       "start_date": {
         "year": -520
+      },
+      "group": {
+        "group": "Pythagoras von Samos"
       }
     },
     {
+      "link": {
+        "links": "8,9 (3\/5)",
+        "id": "17"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/14_Pythagoras_von_Samos.jpg"
@@ -229,9 +365,16 @@
       },
       "start_date": {
         "year": -520
+      },
+      "group": {
+        "group": "Pythagoras von Samos"
       }
     },
     {
+      "link": {
+        "links": "8,9,10 (3\/3\/3)",
+        "id": "18"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/18_Eudoxos_von_Knidos.jpg"
@@ -242,9 +385,16 @@
       },
       "start_date": {
         "year": -360
+      },
+      "group": {
+        "group": "Eudoxos von Knidos"
       }
     },
     {
+      "link": {
+        "links": "7,18 (7\/4)",
+        "id": "19"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/18_Eudoxos_von_Knidos.jpg"
@@ -255,9 +405,16 @@
       },
       "start_date": {
         "year": -360
+      },
+      "group": {
+        "group": "Eudoxos von Knidos"
       }
     },
     {
+      "link": {
+        "links": "7,10,18 (6\/9\/4)",
+        "id": "20"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/18_Eudoxos_von_Knidos.jpg"
@@ -268,9 +425,16 @@
       },
       "start_date": {
         "year": -360
+      },
+      "group": {
+        "group": "Eudoxos von Knidos"
       }
     },
     {
+      "link": {
+        "links": "4,7,18 (3\/3\/6)",
+        "id": "21"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/18_Eudoxos_von_Knidos.jpg"
@@ -281,9 +445,16 @@
       },
       "start_date": {
         "year": -360
+      },
+      "group": {
+        "group": "Eudoxos von Knidos"
       }
     },
     {
+      "link": {
+        "links": "0 (10)",
+        "id": "22"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/22_Euklid_von_Alexandria.jpg"
@@ -294,9 +465,16 @@
       },
       "start_date": {
         "year": -320
+      },
+      "group": {
+        "group": "Euklid von Alexandria (Elemente)"
       }
     },
     {
+      "link": {
+        "links": "14 (8)",
+        "id": "23"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/22_Euklid_von_Alexandria.jpg"
@@ -307,9 +485,16 @@
       },
       "start_date": {
         "year": -320
+      },
+      "group": {
+        "group": "Euklid von Alexandria (Elemente)"
       }
     },
     {
+      "link": {
+        "links": "9,21 (5\/8)",
+        "id": "24"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/24_Archimedes_von_Syrakus.jpg"
@@ -320,9 +505,16 @@
       },
       "start_date": {
         "year": -225
+      },
+      "group": {
+        "group": "Archimedes von Syrakus"
       }
     },
     {
+      "link": {
+        "links": "21 (8)",
+        "id": "25"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/24_Archimedes_von_Syrakus.jpg"
@@ -333,9 +525,16 @@
       },
       "start_date": {
         "year": -225
+      },
+      "group": {
+        "group": "Archimedes von Syrakus"
       }
     },
     {
+      "link": {
+        "links": "20,22 (4\/8)",
+        "id": "26"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/26_Appolonios_von_Perge.jpg"
@@ -346,9 +545,16 @@
       },
       "start_date": {
         "year": -210
+      },
+      "group": {
+        "group": "Apollonios von Perge"
       }
     },
     {
+      "link": {
+        "links": "17,26 (3\/4)",
+        "id": "27"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/26_Appolonios_von_Perge.jpg"
@@ -359,9 +565,16 @@
       },
       "start_date": {
         "year": -210
+      },
+      "group": {
+        "group": "Apollonios von Perge"
       }
     },
     {
+      "link": {
+        "links": "4 (3)",
+        "id": "28"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/28_Heron_von_Alexandria.jpg"
@@ -372,9 +585,16 @@
       },
       "start_date": {
         "year": 50
+      },
+      "group": {
+        "group": "Heron von Alexandria"
       }
     },
     {
+      "link": {
+        "links": "4 (5)",
+        "id": "29"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/28_Heron_von_Alexandria.jpg"
@@ -385,9 +605,16 @@
       },
       "start_date": {
         "year": 50
+      },
+      "group": {
+        "group": "Heron von Alexandria"
       }
     },
     {
+      "link": {
+        "links": "3,4 (8\/5)",
+        "id": "30"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/28_Heron_von_Alexandria.jpg"
@@ -398,9 +625,16 @@
       },
       "start_date": {
         "year": 50
+      },
+      "group": {
+        "group": "Heron von Alexandria (Metrica)"
       }
     },
     {
+      "link": {
+        "links": "7,19,20 (5\/7\/7)",
+        "id": "31"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/28_Heron_von_Alexandria.jpg"
@@ -411,9 +645,16 @@
       },
       "start_date": {
         "year": 50
+      },
+      "group": {
+        "group": "Heron von Alexandria (Metrica)"
       }
     },
     {
+      "link": {
+        "links": "22,26 (6\/3)",
+        "id": "32"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/32_Menelaos.jpg"
@@ -424,9 +665,16 @@
       },
       "start_date": {
         "year": 90
+      },
+      "group": {
+        "group": "Menelaos (Sphaerica)"
       }
     },
     {
+      "link": {
+        "links": "11 (8)",
+        "id": "33"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/32_Menelaos.jpg"
@@ -437,9 +685,16 @@
       },
       "start_date": {
         "year": 90
+      },
+      "group": {
+        "group": "Menelaos"
       }
     },
     {
+      "link": {
+        "links": "13 (4)",
+        "id": "34"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/32_Menelaos.jpg"
@@ -450,9 +705,16 @@
       },
       "start_date": {
         "year": 90
+      },
+      "group": {
+        "group": "Menelaos"
       }
     },
     {
+      "link": {
+        "links": "11,33 (4\/8)",
+        "id": "35"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/35_Claudius_Ptolemaeus.jpg"
@@ -463,9 +725,16 @@
       },
       "start_date": {
         "year": 140
+      },
+      "group": {
+        "group": "Claudius Ptolemäus (Almagest)"
       }
     },
     {
+      "link": {
+        "links": "14 (3)",
+        "id": "36"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/35_Claudius_Ptolemaeus.jpg"
@@ -476,9 +745,16 @@
       },
       "start_date": {
         "year": 140
+      },
+      "group": {
+        "group": "Claudius Ptolemäus"
       }
     },
     {
+      "link": {
+        "links": "30,31 (7\/7)",
+        "id": "37"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/37_Pappos.jpg"
@@ -489,9 +765,16 @@
       },
       "start_date": {
         "year": 350
+      },
+      "group": {
+        "group": "Pappos (Mathematische Sammlungen)"
       }
     },
     {
+      "link": {
+        "links": "26 (1)",
+        "id": "38"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/37_Pappos.jpg"
@@ -502,9 +785,16 @@
       },
       "start_date": {
         "year": 350
+      },
+      "group": {
+        "group": "Pappos (Mathematische Sammlungen)"
       }
     },
     {
+      "link": {
+        "links": "14 (5)",
+        "id": "39"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/37_Pappos.jpg"
@@ -515,9 +805,16 @@
       },
       "start_date": {
         "year": 350
+      },
+      "group": {
+        "group": "Pappos"
       }
     },
     {
+      "link": {
+        "links": "24 (7)",
+        "id": "40"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/40_Aryabhata.jpg"
@@ -528,9 +825,16 @@
       },
       "start_date": {
         "year": 520
+      },
+      "group": {
+        "group": "Aryabhata"
       }
     },
     {
+      "link": {
+        "links": "33,35 (8\/6)",
+        "id": "41"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/40_Aryabhata.jpg"
@@ -541,9 +845,16 @@
       },
       "start_date": {
         "year": 520
+      },
+      "group": {
+        "group": "Aryabhata"
       }
     },
     {
+      "link": {
+        "links": "36 (7)",
+        "id": "43"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/43_Brahmagupta.jpg"
@@ -554,9 +865,16 @@
       },
       "start_date": {
         "year": 628
+      },
+      "group": {
+        "group": "Brahmagupta (Brahmasphutasiddhanta)"
       }
     },
     {
+      "link": {
+        "links": "36 (7)",
+        "id": "44"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/43_Brahmagupta.jpg"
@@ -567,9 +885,16 @@
       },
       "start_date": {
         "year": 628
+      },
+      "group": {
+        "group": "Brahmagupta (Brahmasphutasiddhanta)"
       }
     },
     {
+      "link": {
+        "links": "18,40 (4\/7)",
+        "id": "45"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/45_Banu_Musa.jpg"
@@ -580,9 +905,16 @@
       },
       "start_date": {
         "year": 850
+      },
+      "group": {
+        "group": "Banū Mūsā Brüder (Kitab marifat masakhat al-ashkal)"
       }
     },
     {
+      "link": {
+        "links": "18,37 (4\/7)",
+        "id": "46"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/45_Banu_Musa.jpg"
@@ -593,9 +925,16 @@
       },
       "start_date": {
         "year": 850
+      },
+      "group": {
+        "group": "Banū Mūsā Brüder (Kitab marifat masakhat al-ashkal)"
       }
     },
     {
+      "link": {
+        "links": "41 (9)",
+        "id": "47"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/47_al_Battani.jpg"
@@ -606,9 +945,16 @@
       },
       "start_date": {
         "year": 900
+      },
+      "group": {
+        "group": "al Battani"
       }
     },
     {
+      "link": {
+        "links": "41 (7)",
+        "id": "48"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/47_al_Battani.jpg"
@@ -619,9 +965,16 @@
       },
       "start_date": {
         "year": 900
+      },
+      "group": {
+        "group": "al Battani"
       }
     },
     {
+      "link": {
+        "links": "41 (8)",
+        "id": "49"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/47_al_Battani.jpg"
@@ -632,9 +985,16 @@
       },
       "start_date": {
         "year": 900
+      },
+      "group": {
+        "group": "al Battani"
       }
     },
     {
+      "link": {
+        "links": "47,48 (6\/9)",
+        "id": "50"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/50_Abu_l_Wafa.jpg"
@@ -645,9 +1005,16 @@
       },
       "start_date": {
         "year": 980
+      },
+      "group": {
+        "group": "Abu l Wafa"
       }
     },
     {
+      "link": {
+        "links": "47 (6)",
+        "id": "51"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/50_Abu_l_Wafa.jpg"
@@ -658,9 +1025,16 @@
       },
       "start_date": {
         "year": 980
+      },
+      "group": {
+        "group": "Abu l Wafa"
       }
     },
     {
+      "link": {
+        "links": "47,50 (7\/7)",
+        "id": "52"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/50_Abu_l_Wafa.jpg"
@@ -671,9 +1045,16 @@
       },
       "start_date": {
         "year": 980
+      },
+      "group": {
+        "group": "Abu l Wafa"
       }
     },
     {
+      "link": {
+        "links": "32,49 (6\/8)",
+        "id": "53"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/50_Abu_l_Wafa.jpg"
@@ -684,9 +1065,16 @@
       },
       "start_date": {
         "year": 980
+      },
+      "group": {
+        "group": "Abu l Wafa"
       }
     },
     {
+      "link": {
+        "links": "47,48,50,51,52 (6\/6\/6\/6\/6)",
+        "id": "54"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/54_Fibonacci.jpg"
@@ -697,9 +1085,16 @@
       },
       "start_date": {
         "year": 1202
+      },
+      "group": {
+        "group": "Leonardo von Pisa \/ Fibonacci (Liber abbaci)"
       }
     },
     {
+      "link": {
+        "links": "22,32,54 (6\/5\/5)",
+        "id": "55"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/55_Regiomontanus.jpg"
@@ -710,9 +1105,16 @@
       },
       "start_date": {
         "year": 1464
+      },
+      "group": {
+        "group": "Regiomontanus\/Johannes Müller (De triangulis omnimodis)"
       }
     },
     {
+      "link": {
+        "links": "0 (9)",
+        "id": "56"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/56_Duerer.jpg"
@@ -723,9 +1125,16 @@
       },
       "start_date": {
         "year": 1525
+      },
+      "group": {
+        "group": "Albrecht Dürer (Underweysung der Messung, mit dem Zirckel und Richtscheyt, in Linien, Ebenen unnd gantzen corporen)"
       }
     },
     {
+      "link": {
+        "links": "52,54,55 (5\/7\/7)",
+        "id": "57"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/57_Rheticus.jpg"
@@ -736,9 +1145,16 @@
       },
       "start_date": {
         "year": 1551
+      },
+      "group": {
+        "group": "Georg Joachim Rheticus (Canon Doctrinae)"
       }
     },
     {
+      "link": {
+        "links": "35,55 (6\/5)",
+        "id": "58"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/57_Rheticus.jpg"
@@ -749,9 +1165,16 @@
       },
       "start_date": {
         "year": 1551
+      },
+      "group": {
+        "group": "Georg Joachim Rheticus (Canon Doctrinae)"
       }
     },
     {
+      "link": {
+        "links": "45 (8)",
+        "id": "59"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/59_Viete.jpg"
@@ -762,9 +1185,16 @@
       },
       "start_date": {
         "year": 1593
+      },
+      "group": {
+        "group": "François Viète"
       }
     },
     {
+      "link": {
+        "links": "45,46,55 (3\/3\/4)",
+        "id": "60"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/60_Descartes.jpg"
@@ -775,9 +1205,16 @@
       },
       "start_date": {
         "year": 1637
+      },
+      "group": {
+        "group": "René Descartes (La Géométrie)"
       }
     },
     {
+      "link": {
+        "links": "38 (7)",
+        "id": "61"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/61_Desargues.jpg"
@@ -788,9 +1225,16 @@
       },
       "start_date": {
         "year": 1639
+      },
+      "group": {
+        "group": "Gérard Desargues (Brouillon Projet)"
       }
     },
     {
+      "link": {
+        "links": "22,38,55,61 (4\/8\/2\/8)",
+        "id": "62"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/61_Desargues.jpg"
@@ -801,9 +1245,16 @@
       },
       "start_date": {
         "year": 1639
+      },
+      "group": {
+        "group": "Gérard Desargues (Brouillon Projet)"
       }
     },
     {
+      "link": {
+        "links": "38,62 (8\/8)",
+        "id": "63"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/63_Pascal.jpg"
@@ -814,9 +1265,16 @@
       },
       "start_date": {
         "year": 1640
+      },
+      "group": {
+        "group": "Blaise Pascal"
       }
     },
     {
+      "link": {
+        "links": "21,37 (7\/2)",
+        "id": "64"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/64_Cavalieri.jpg"
@@ -827,9 +1285,16 @@
       },
       "start_date": {
         "year": 1647
+      },
+      "group": {
+        "group": "Bonaventura Cavalieri"
       }
     },
     {
+      "link": {
+        "links": "60 (8)",
+        "id": "65"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/65_Fermat.jpg"
@@ -840,9 +1305,16 @@
       },
       "start_date": {
         "year": 1650
+      },
+      "group": {
+        "group": "Pierre de Fermat"
       }
     },
     {
+      "link": {
+        "links": "34 (9)",
+        "id": "66"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/66_Ceva.jpg"
@@ -853,9 +1325,16 @@
       },
       "start_date": {
         "year": 1678
+      },
+      "group": {
+        "group": "Giovanni Ceva (De lineis rectis se invicem secantibus statica constructio)"
       }
     },
     {
+      "link": {
+        "links": "55 (3)",
+        "id": "67"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/67_Newton.jpg"
@@ -866,9 +1345,16 @@
       },
       "start_date": {
         "year": 1704
+      },
+      "group": {
+        "group": "Isaac Newton"
       }
     },
     {
+      "link": {
+        "links": "55,59 (6\/1)",
+        "id": "68"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/68_Euler.jpg"
@@ -879,9 +1365,16 @@
       },
       "start_date": {
         "year": 1758
+      },
+      "group": {
+        "group": "Leonhard Euler"
       }
     },
     {
+      "link": {
+        "links": "0 (9)",
+        "id": "69"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/68_Euler.jpg"
@@ -892,9 +1385,16 @@
       },
       "start_date": {
         "year": 1758
+      },
+      "group": {
+        "group": "Leonhard Euler"
       }
     },
     {
+      "link": {
+        "links": "22,55 (8\/6)",
+        "id": "70"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/70_Legendre.jpg"
@@ -905,9 +1405,16 @@
       },
       "start_date": {
         "year": 1794
+      },
+      "group": {
+        "group": "Adrien-Marie Legendre (Éléments de géométrie)"
       }
     },
     {
+      "link": {
+        "links": "62,70 (4\/6)",
+        "id": "71"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/71_Gauss.jpg"
@@ -918,9 +1425,16 @@
       },
       "start_date": {
         "year": 1811
+      },
+      "group": {
+        "group": "Carl Friedrich Gauß"
       }
     },
     {
+      "link": {
+        "links": "65,68 (3\/2)",
+        "id": "72"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/71_Gauss.jpg"
@@ -931,9 +1445,16 @@
       },
       "start_date": {
         "year": 1811
+      },
+      "group": {
+        "group": "Carl Friedrich Gauß"
       }
     },
     {
+      "link": {
+        "links": "56 (6)",
+        "id": "73"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/71_Gauss.jpg"
@@ -944,9 +1465,16 @@
       },
       "start_date": {
         "year": 1811
+      },
+      "group": {
+        "group": "Carl Friedrich Gauß"
       }
     },
     {
+      "link": {
+        "links": "56 (3)",
+        "id": "74"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/74_Feuerbach.jpg"
@@ -957,9 +1485,16 @@
       },
       "start_date": {
         "year": 1822
+      },
+      "group": {
+        "group": "Karl Wilhelm Feuerbach"
       }
     },
     {
+      "link": {
+        "links": "62,71 (7\/4)",
+        "id": "75"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/75_Poncelet.jpg"
@@ -970,9 +1505,16 @@
       },
       "start_date": {
         "year": 1823
+      },
+      "group": {
+        "group": "Jean-Victor Poncelet"
       }
     },
     {
+      "link": {
+        "links": "71 (8)",
+        "id": "76"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/76_Lobatschewski.jpg"
@@ -983,9 +1525,16 @@
       },
       "start_date": {
         "year": 1826
+      },
+      "group": {
+        "group": "Nikolai Iwanowitsch Lobatschewski"
       }
     },
     {
+      "link": {
+        "links": "65,72 (3\/3)",
+        "id": "77"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/77_Moebius.jpg"
@@ -996,9 +1545,16 @@
       },
       "start_date": {
         "year": 1827
+      },
+      "group": {
+        "group": "August Ferdinand Möbius"
       }
     },
     {
+      "link": {
+        "links": "71,76 (6\/8)",
+        "id": "78"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/78_Bolyai.jpg"
@@ -1009,9 +1565,16 @@
       },
       "start_date": {
         "year": 1831
+      },
+      "group": {
+        "group": "János Bolyai"
       }
     },
     {
+      "link": {
+        "links": "60,70,75,76 (3\/6\/6\/6)",
+        "id": "79"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/78_Bolyai.jpg"
@@ -1022,9 +1585,16 @@
       },
       "start_date": {
         "year": 1831
+      },
+      "group": {
+        "group": "János Bolyai"
       }
     },
     {
+      "link": {
+        "links": "56 (9)",
+        "id": "80"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/80_Monge.jpg"
@@ -1035,9 +1605,16 @@
       },
       "start_date": {
         "year": 1847
+      },
+      "group": {
+        "group": "Gaspard Monge (Géométrie descriptive)"
       }
     },
     {
+      "link": {
+        "links": "21 (6)",
+        "id": "81"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/81_Riemann.jpg"
@@ -1048,9 +1625,16 @@
       },
       "start_date": {
         "year": 1857
+      },
+      "group": {
+        "group": "Bernhard Riemann"
       }
     },
     {
+      "link": {
+        "links": "75,78,79 (5\/5\/7)",
+        "id": "82"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/82_Klein.jpg"
@@ -1061,9 +1645,16 @@
       },
       "start_date": {
         "year": 1871
+      },
+      "group": {
+        "group": "Felix Klein (Erlanger Programm)"
       }
     },
     {
+      "link": {
+        "links": "76,79 (8\/4)",
+        "id": "83"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/83_Poincare.jpg"
@@ -1074,9 +1665,16 @@
       },
       "start_date": {
         "year": 1890
+      },
+      "group": {
+        "group": "Henri Poincaré"
       }
     },
     {
+      "link": {
+        "links": "70,82 (7\/7)",
+        "id": "84"
+      },
       "media": {
         "link": "https:\/\/www.frustfrei-lernen.de\/mathematik\/geometrie-volumen-oberflaeche-fass-kugel.html",
         "url": "\/pic\/84_Hilbert.jpg"
@@ -1087,6 +1685,9 @@
       },
       "start_date": {
         "year": 1899
+      },
+      "group": {
+        "group": "David Hilbert (Grundlagen der Geometrie)"
       }
     }
   ]

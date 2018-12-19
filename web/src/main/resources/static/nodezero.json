@@ -1,0 +1,179 @@
+{
+  "comment": "Node 0 graph",
+  "nodes": [
+    {
+      "id": 0,
+      "caption": "Reale Objekte",
+      "role": "Base",
+      "date": "4.500 BCE",
+      "cluster": "1",
+      "root": true
+    },
+    {
+      "id": 1,
+      "caption": "Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256\/81)",
+      "role": "Main",
+      "date": "1.850 BCE",
+      "cluster": "2",
+      "root": true
+    },
+    {
+      "id": 2,
+      "caption": "Raumgeometrie - Volumen verschiedener Körper",
+      "role": "Main",
+      "date": "1.850 BCE",
+      "cluster": "2",
+      "root": true
+    },
+    {
+      "id": 3,
+      "caption": "Raumgeometrie - Oberfläche verschiedener Körper",
+      "role": "Main",
+      "date": "1.850 BCE",
+      "cluster": "2",
+      "root": false
+    },
+    {
+      "id": 6,
+      "caption": "Kreisumfang und Kreisfläche (Pi = 3)",
+      "role": "Main",
+      "date": "1.700 BCE",
+      "cluster": "2",
+      "root": false
+    },
+    {
+      "id": 11,
+      "caption": "Trigonometrie: Steigung Pyramide = Gegenkathete/Ankathete",
+      "role": "Main",
+      "date": "1550 BCE",
+      "cluster": "2",
+      "root": false
+    },
+    {
+      "id": 22,
+      "caption": "Axiomatisierung der Geometrie",
+      "role": "Main",
+      "date": "320 BCE",
+      "cluster": "2",
+      "root": false
+    },
+    {
+      "id": 56,
+      "caption": "Konstruktion von Figuren mit Zirkel und Lineal; Diskussion von Proportion und Perspektive",
+      "role": "Main",
+      "date": "1525",
+      "cluster": "2",
+      "root": false
+    },
+    {
+      "id": 69,
+      "caption": "Eulerscher Polyedersatz",
+      "role": "Main",
+      "date": "1758",
+      "cluster": "2",
+      "root": false
+    },
+    {
+      "id": 4,
+      "caption": "Allgemeine Regeln zur Flächenberechnung",
+      "role": "Main",
+      "title": "Tontafeln der Babylonier",
+      "date": "1.700 BCE",
+      "cluster": "3",
+      "root": false
+    },
+    {
+      "id": 5,
+      "caption": "Satz des Pythagoras",
+      "role": "Main",
+      "title": "Tontafeln der Babylonier",
+      "date": "1.700 BCE",
+      "cluster": "3",
+      "root": false
+    },
+    {
+      "id": 7,
+      "caption": "Allgemeine Regeln zur Volumenberechnung",
+      "role": "Base",
+      "date": "1.700 BCE",
+      "cluster": "1",
+      "cluster": "3",
+      "root": true
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 0,
+      "caption": "10",
+      "load": 10
+    },
+    {
+      "source": 2,
+      "target": 0,
+      "caption": "10",
+      "load": 10
+    },
+    {
+      "source":3,
+      "target": 0,
+      "caption": "10",
+      "load": 10
+    },
+    {
+      "source": 6,
+      "target": 0,
+      "caption": "10",
+      "load": 10
+    },
+    {
+      "source": 11,
+      "target": 0,
+      "caption": "8",
+      "load": 8
+    },
+    {
+      "source": 22,
+      "target": 0,
+      "caption": "10",
+      "load": 10
+    },
+    {
+      "source": 56,
+      "target": 0,
+      "caption": "9",
+      "load": 9
+    },
+    {
+      "source": 69,
+      "target": 0,
+      "caption": "9",
+      "load": 9
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "caption": "9",
+      "load": 9
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "caption": "2",
+      "load": 2
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "caption": "6",
+      "load": 6
+    },
+    {
+      "source": 7,
+      "target": 2,
+      "caption": "9",
+      "load": 9
+    }
+  ]
+}
+

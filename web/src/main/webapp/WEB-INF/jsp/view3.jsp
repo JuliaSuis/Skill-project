@@ -1,3 +1,10 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: juliasemenova
+  Date: 11.07.18
+  Time: 07:15
+  To change this template use File | Settings | File Templates.
+--%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
@@ -67,86 +74,86 @@
 </nav>
 
 
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-10">
-                <div id="3d-graph"></div>
-            </div>
-
-            <div class="col-md-2">
-                </form>
-                <label for="times">Times</label>
-                <select multiple class="form-control" id="times" size=5 style='height: 100%;'>
-                    <c:if test="${not empty times}">
-                        <c:forEach var="t" items="${times}">
-                            <option>${t}</option>
-                        </c:forEach>
-                    </c:if>
-                </select>
-                <br>
-                <button type="button" class="btn btn-success" id="buttonTimes">Filter</button>
-                </form>
-            </div>
-
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-10">
+            <div id="3d-graph"></div>
         </div>
+
+        <div class="col-md-2">
+            </form>
+            <label for="times">Times</label>
+            <select multiple class="form-control" id="times" size=5 style='height: 100%;'>
+                <c:if test="${not empty times}">
+                    <c:forEach var="t" items="${times}">
+                        <option>${t}</option>
+                    </c:forEach>
+                </c:if>
+            </select>
+            <br>
+            <button type="button" class="btn btn-success" id="buttonTimes">Filter</button>
+            </form>
+        </div>
+
     </div>
+</div>
 
 
-    <script>
-        $(document).ready(function(){
+<script>
+    $(document).ready(function(){
 
-            var url = "links.json";
+        var url = "links.json";
 
-            function nodeCallback(node)
-            {
-                console.log(node);
-            }
-
-//            function getGraphDataSets() {
-//
-//                const loadMiserables = function(Graph) {
-//                    Graph
-//                        .cooldownTicks(200)
-//                        .nameField('label')
-//                        .autoColorBy('group')
-//                        .forceEngine('ngraph')
-//                        .idField('id')
-//                        .valField('value')
-//                        .jsonUrl(url);
-//                        //.onNodeClick(alert("Node Inside function"));
-//                };
-//                //
-//
-//                return [loadMiserables];
-//            }
-//
-            const Graph = ForceGraph3D()
-//            (document.getElementById("3d-graph"))
-//                .onNodeClick(redirect());
+        function nodeCallback(node)
+        {
+            console.log(node);
+        }
 
             function getGraphDataSets() {
-                const Graph = ForceGraph3D()
-                (document.getElementById('3d-graph'))
-                    .cooldownTicks(200)
-                    .nameField('label')
-                    .autoColorBy('group')
-                    .forceEngine('ngraph')
-                    .idField('id')
-                    .valField('value')
-                    .jsonUrl(url)
-                    .onNodeClick(redirect);
 
-                return [Graph]
-            }
+                const loadMiserables = function(Graph) {
+                    Graph
+                        .cooldownTicks(200)
+                        .nameField('label')
+                        .autoColorBy('group')
+                        .forceEngine('ngraph')
+                        .idField('id')
+                        .valField('value')
+                        .jsonUrl(url);
+                        //.onNodeClick(alert("Node Inside function"));
+                }
+                //
 
-           function redirect(node){
-               //alert("Node outside fn");
-               window.open(href="nodepage", '_blank');
-               //console.log("Hey, I'm working here!");
+                return [loadMiserables];
             }
+//
+        const Graph = ForceGraph3D()
+            (document.getElementById("3d-graph"));
+//                .onNodeClick(redirect());
+
+//        function getGraphDataSets() {
+//            const Graph = ForceGraph3D()
+//            (document.getElementById('3d-graph'))
+//                .cooldownTicks(200)
+//                .nameField('label')
+//                .autoColorBy('group')
+//                .forceEngine('ngraph')
+//                .idField('id')
+//                .valField('value')
+//                .jsonUrl(url)
+//                .onNodeClick(redirect);
+//
+//            return [Graph]
+//        }
+
+//        function redirect(node){
+//            //alert("Node outside fn");
+//            window.open(href="nodepage", '_blank');
+//            //console.log("Hey, I'm working here!");
+//        }
 
 //            let curDataSetIdx;
-           const dataSets = getGraphDataSets();
+        const dataSets = getGraphDataSets();
 //
 //            let toggleData;
 //            (toggleData = function() {
@@ -157,41 +164,41 @@
 //                dataSet(Graph); // Load data set
 
 
-                 //document.getElementById('graph-data-description').innerHTML = dataSet.description ? `Viewing ${dataSet.description}` : '';
-    //        })(); // IIFE init
+        //document.getElementById('graph-data-description').innerHTML = dataSet.description ? `Viewing ${dataSet.description}` : '';
+        //        })(); // IIFE init
 
-            $("#buttonNodes").click(function()
+        $("#buttonNodes").click(function()
+        {
+            var sList = "";
+            $("input[type='checkbox'][name='nodes']").each(function ()
             {
-                var sList = "";
-                $("input[type='checkbox'][name='nodes']").each(function ()
-                {
-                    var sThisVal = (this.checked ? $(this).val() : "0");
-                    sList += (sList=="" ? sThisVal : "," + sThisVal);
-                });
-                console.log(sList);
-
-                url="links.json?nodes="+sList;
-
-                const dataSet = dataSets[0];
-
-                Graph.resetProps(); // Wipe current state
-                dataSet(Graph); // Load data set
+                var sThisVal = (this.checked ? $(this).val() : "0");
+                sList += (sList=="" ? sThisVal : "," + sThisVal);
             });
+            console.log(sList);
 
-            $("#buttonTimes").click(function()
-            {
-                var sList = $("#times").val();
+            url="links.json?nodes="+sList;
 
-                url="links.json?time="+sList;
+            const dataSet = dataSets[0];
 
-                const dataSet = dataSets[0];
-
-                Graph.resetProps(); // Wipe current state
-                dataSet(Graph); // Load data set
-                console.log(url);
-            });
-
+            Graph.resetProps(); // Wipe current state
+            dataSet(Graph); // Load data set
         });
 
-    </script>
+        $("#buttonTimes").click(function()
+        {
+            var sList = $("#times").val();
+
+            url="links.json?time="+sList;
+
+            const dataSet = dataSets[0];
+
+            Graph.resetProps(); // Wipe current state
+            dataSet(Graph); // Load data set
+            console.log(url);
+        });
+
+    });
+
+</script>
 </body>

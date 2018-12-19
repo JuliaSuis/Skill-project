@@ -1,0 +1,80 @@
+{
+  "comment": "Node 4 graph",
+  "nodes": [
+    {
+      "id": 4,
+      "caption": "Allgemeine Regeln zur Flächenberechnung",
+      "role": "Base",
+      "date": "1.700 BCE",
+      "root": true
+    },
+    {
+      "id": 8,
+      "caption": "Flächeninhalt gleichschenkliges Dreieck (A=1/2 * g * h)",
+      "role": "Main",
+      "date": "1550 BCE",
+      "root": false
+    },
+    {
+      "id": 21,
+      "caption": "Exhaustionsmethode",
+      "role": "Main",
+      "date": "360 BC",
+      "root": false
+    },
+    {
+      "id": 28,
+      "caption": "Heronverfahren",
+      "role": "Main",
+      "date": "50",
+      "root": false
+    },
+    {
+      "id": 29,
+      "caption": "Satz von Heron",
+      "role": "Main",
+      "date": "50",
+      "root": false
+    },
+    {
+      "id": 30,
+      "caption": "Formel für Oberfläche von Pyramide, Zylinder, Kugel",
+      "role": "Main",
+      "date": "50",
+      "root": false
+    }
+  ],
+  "edges": [
+    {
+      "source": 4,
+      "target": 8,
+      "caption": "7",
+      "load": 7
+    },
+    {
+      "source": 4,
+      "target": 21,
+      "caption": "3",
+      "load": 3
+    },
+    {
+      "source": 4,
+      "target": 28,
+      "caption": "3",
+      "load": 3
+    },
+    {
+      "source": 4,
+      "target": 29,
+      "caption": "5",
+      "load": 5
+    },
+    {
+      "source": 4,
+      "target": 30,
+      "caption": "5",
+      "load": 5
+    }
+  ]
+}
+

@@ -91,7 +91,7 @@
 </main>
 
 <footer class="container">
-    <p>&copy; SKILL 2017</p>
+    <p>&copy; SKILL 2018</p>
 </footer>
 
 <!-- Bootstrap core JavaScript

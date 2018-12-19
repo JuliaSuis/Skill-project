@@ -1,0 +1,57 @@
+{
+  "comment": "Node 1 graph",
+  "nodes": [
+    {
+      "id": 1,
+      "caption": "Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256\/81)",
+      "role": "Base",
+      "title": "Moskauer Papyrus",
+      "date": "1.850 BCE",
+      "root": true
+    },
+    {
+      "id": 4,
+      "caption": "Allgemeine Regeln zur Flächenberechnung",
+      "role": "Main",
+      "title": "Tontafeln der Babylonier",
+      "date": "1.700 BCE",
+      "root": false
+    },
+    {
+      "id": 5,
+      "caption": "Satz des Pythagoras",
+      "role": "Main",
+      "title": "Tontafeln der Babylonier",
+      "date": "1.700 BCE",
+      "root": false
+    },
+    {
+    "id": 6,
+    "caption": "Kreisumfang und Kreisfläche (Pi = 3)",
+    "role": "Main",
+      "title": "Tontafeln der Babylonier",
+    "date": "1.700 BCE",
+    "root": false
+    }
+  ],
+  "edges": [
+    {
+      "source": 1,
+      "target": 4,
+      "caption": "9",
+      "load": 9
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "caption": "2",
+      "load": 2
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "caption": "6",
+      "load": 6
+    }
+  ]
+}

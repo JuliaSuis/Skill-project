@@ -1,0 +1,41 @@
+{
+  "comment": "Node 7 graph",
+  "nodes": [
+    {
+      "id": 0,
+      "caption": "Reale Objekte",
+      "role": "Base",
+      "date": "4.500 BCE",
+      "root": false
+    },
+    {
+      "id": 2,
+      "caption": "Raumgeometrie - Volumen verschiedener Körper",
+      "role": "Base",
+      "date": "1.850 BCE",
+      "root": false
+    },
+    {
+      "id": 7,
+      "caption": "Allgemeine Regeln zur Volumenberechnung",
+      "role": "Main",
+      "date": "1.700 BCE",
+      "root": true
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 2,
+      "caption": "9",
+      "load": 9
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "caption": "9",
+      "load": 9
+    }
+  ]
+}
+

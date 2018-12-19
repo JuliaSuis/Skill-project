@@ -1,0 +1,54 @@
+{
+  "comment": "Node 8 graph",
+  "nodes": [
+    {
+      "id": 0,
+      "caption": "Reale Objekte",
+      "role": "Base",
+      "date": "4.500 BCE",
+      "root": false
+    },
+    {
+      "id": 1,
+      "caption": "Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256\/81)",
+      "role": "Base",
+      "date": "1.850 BCE",
+      "root": false
+    },
+    {
+      "id": 4,
+      "caption": "Allgemeine Regeln zur Flächenberechnung",
+      "role": "Base",
+      "date": "1.700 BCE",
+      "root": false
+    },
+    {
+      "id": 8,
+      "caption": "Flächeninhalt gleichschenkliges Dreieck (A=1\/2 * g * h)",
+      "role": "Main",
+      "date": "1.550 BCE",
+      "root": true
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 1,
+      "caption": "10",
+      "load": 10
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "caption": "9",
+      "load": 9
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "caption": "7",
+      "load": 7
+    }
+  ]
+}
+

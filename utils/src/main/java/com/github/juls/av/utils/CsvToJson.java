@@ -30,7 +30,7 @@ public class CsvToJson {
         body.put("title", title);
 
         JSONArray events = new JSONArray();
-        for (int i = 3; i < lines.size(); i++) {
+        for (int i = 2; i < lines.size(); i++) {
             try {
                 String[] line = lines.get(i).split("\t");
 
@@ -45,10 +45,19 @@ public class CsvToJson {
                 text.put("headline", line[1]);
                 text.put("text", line[5]);
 
+                JSONObject group = new JSONObject();
+                group.put("group", line[2]);
+
+                JSONObject link = new JSONObject();
+                link.put("id", line[0]);
+                link.put("links", line[4]);
+
                 JSONObject elem = new JSONObject();
                 elem.put("media", media);
                 elem.put("start_date", start_date);
                 elem.put("text", text);
+                elem.put("link", link);
+                elem.put("group", group);
 
                 events.add(elem);
             } catch (Exception e) {

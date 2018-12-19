@@ -1,0 +1,24 @@
+{
+  "comment": "Node 1 graph",
+  "nodes": [
+    {
+      "id": "s0",
+      "caption": "Reale Objekte",
+      "role": "http_server",
+      "root": true
+    },
+    {
+      "id": "s1",
+      "caption": "Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256\/81)",
+      "role": "http_server",
+      "root": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "s0",
+      "target": "s1",
+      "load": 10
+    }
+  ]
+}

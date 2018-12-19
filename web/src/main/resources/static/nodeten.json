@@ -1,0 +1,101 @@
+{
+  "comment": "Node 10 graph",
+  "nodes": [
+    {
+      "id": 0,
+      "caption": "Reale Objekte",
+      "role": "Base",
+      "date": "4.500 BCE",
+      "root": false
+    },
+    {
+      "id": 1,
+      "caption": "Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256\/81)",
+      "role": "Base",
+      "date": "1.850 BCE",
+      "root": false
+    },
+    {
+      "id": 2,
+      "caption": "Raumgeometrie - Volumen verschiedener Körper",
+      "role": "Base",
+      "date": "1.850 BCE",
+      "root": false
+    },
+    {
+      "id": 6,
+      "caption": "Kreisumfang und Kreisfläche (Pi = 3)",
+      "role": "Base",
+      "date": "1.700 BCE",
+      "root": false
+    },
+    {
+      "id": 7,
+      "caption": "Allgemeine Regeln zur Volumenberechnung",
+      "role": "Base",
+      "date": "1.700 BCE",
+      "root": false
+    },
+    {
+      "id": 9,
+      "caption": "Kreisumfang und Kreisfläche (Pi = 256\/81)",
+      "role": "Base",
+      "date": "1.550 BCE",
+      "root": false
+    },
+    {
+      "id": 10,
+      "caption": "Volumen Zylinder (Pi = 256\/81)",
+      "role": "Main",
+      "date": "1.550 BCE",
+      "root": true
+    }
+
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 2,
+      "caption": "10",
+      "load": 10
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "caption": "10",
+      "load": 10
+    },
+     {
+      "source": 1,
+      "target": 6,
+      "caption": "6",
+      "load": 6
+    },
+     {
+      "source": 2,
+      "target": 7,
+      "caption": "9",
+      "load": 9
+    },
+     {
+      "source": 6,
+      "target": 9,
+      "caption": "9",
+      "load": 9
+    },
+     {
+      "source": 7,
+      "target": 10,
+      "caption": "7",
+      "load": 7
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "caption": "4",
+      "load": 4
+    }
+
+  ]
+}
+

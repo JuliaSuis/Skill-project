@@ -1,0 +1,59 @@
+{
+  "comment": "Node 1 graph",
+  "nodes": [
+    {
+      "id": 2,
+      "caption": "Raumgeometrie - Volumen verschiedener Körper",
+      "role": "Base",
+      "date": "1.850 BCE",
+      "cluster": "1",
+      "root": true
+    },
+    {
+      "id": 7,
+      "caption": "Allgemeine Regeln zur Volumenberechnung",
+      "role": "Base",
+      "date": "1.700 BCE",
+      "cluster": "1",
+      "root": true
+    },
+    {
+      "id": 10,
+      "caption": "Volumen Zylinder (Pi = 256/81)",
+      "role": "Main",
+      "date": "1550 BCE",
+      "cluster": "2",
+      "root": false
+    },
+    {
+      "id": 19,
+      "caption": "Volumen Pyramide = 1/3 Volumen Prisma",
+      "role": "Main",
+      "date": "360 BCE",
+      "cluster": "2",
+      "root": false
+    }
+  ],
+  "edges": [
+    {
+      "source": 2,
+      "target": 7,
+      "caption": "9",
+      "load": 9
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "caption": "7",
+      "load": 7
+    },
+    {
+      "source": 7,
+      "target": 19,
+      "caption": "7",
+      "load": 7
+    }
+
+  ]
+}
+

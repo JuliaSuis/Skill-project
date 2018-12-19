@@ -1,0 +1,41 @@
+{
+  "comment": "Node 6 graph",
+  "nodes": [
+    {
+      "id": 0,
+      "caption": "Reale Objekte",
+      "role": "Base",
+      "date": "4.500 BCE",
+      "root": false
+    },
+    {
+      "id": 1,
+      "caption": "Ebene Geometrie - Fläche von Dreieck, Viereck, Kreis (Pi = 256\/81)",
+      "role": "Main",
+      "date": "1.850 BCE",
+      "root": false
+    },
+    {
+      "id": 6,
+      "caption": "Kreisumfang und Kreisfläche (Pi = 3)",
+      "role": "Main",
+      "date": "1.700 BCE",
+      "root": true
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 6,
+      "caption": "10",
+      "load": 10
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "caption": "6",
+      "load": 6
+    }
+  ]
+}
+
